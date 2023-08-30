@@ -1,4 +1,4 @@
-## Hello There
+# Hello There
 
 - [YouTube - entertainment and education](https://www.youtube.com/@MAZ01001 "youtube.com/@MAZ01001")
 - [Homepage - coding projects and social links](https://maz01001.github.io/ "MAZ01001.github.io")
