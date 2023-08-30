@@ -110,7 +110,7 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 
 ## [mechanics](https://www.youtube.com/@MAZ01001/channels?view=49&flow=grid&shelf_id=5 "View list on YouTube")
 
-<details closed><summary>Click to view 16 channels</summary>
+<details closed><summary>Click to view 17 channels</summary>
 
 - <img alt="Channel icon" title="Channel icon" height="24" src="https://yt3.googleusercontent.com/ytc/AOPolaRfl_WPj9fiDmLI5ABNohb6MMw8A8C38geOp9b7wg=s176-c-k-c0x00ffffff-no-rj-mo"> [This Old Tony](https://www.youtube.com/@ThisOldTony "@ThisOldTony")
 - <img alt="Channel icon" title="Channel icon" height="24" src="https://yt3.googleusercontent.com/ytc/AOPolaRe0H2K6ICHrOP71PIPfITKVPPcVNTVya8Herj_2w=s176-c-k-c0x00ffffff-no-rj-mo"> [Clickspring](https://www.youtube.com/@Clickspring "@Clickspring")
@@ -119,6 +119,7 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 - <img alt="Channel icon" title="Channel icon" height="24" src="https://yt3.googleusercontent.com/ytc/AOPolaQ0llS2dARUQu5yb-pNywP5tpN3ZS8SCeJGEJjXiQ=s176-c-k-c0x00ffffff-no-rj-mo"> [colinfurze](https://www.youtube.com/@colinfurze "@colinfurze")
 - <img alt="Channel icon" title="Channel icon" height="24" src="https://yt3.googleusercontent.com/ytc/AOPolaRkpLip6JRlmTvEqIcHp-5lKwjsacrW3hXigxCVAA=s176-c-k-c0x00ffffff-no-rj-mo"> [AWE me](https://www.youtube.com/@AweMe "@AweMe")
 - <img alt="Channel icon" title="Channel icon" height="24" src="https://yt3.googleusercontent.com/ytc/AOPolaRo2NY86NNHI8XEvJ54KgTvIgXO8Eji0dyu6PoC=s176-c-k-c0x00ffffff-no-rj-mo"> [Hand Tool Rescue](https://www.youtube.com/@HandToolRescue "@HandToolRescue")
+- <img alt="Channel icon" title="Channel icon" height="24" src="https://yt3.googleusercontent.com/E1ksRh-aleD0c5ZZPJFa_ekfwNfN-5FcJNyBH66M0poOKyeECtkSghfS5hQOlOpRdWiJyRHlMQ=s176-c-k-c0x00ffffff-no-rj-mo"> [Inheritance Machining](https://www.youtube.com/@InheritanceMachining "@InheritanceMachining")
 - <img alt="Channel icon" title="Channel icon" height="24" src="https://yt3.googleusercontent.com/KFB53wRenII7VQEYIER3-sRL0J9jttv8dRwPk8Rie9mpCmQZqBt1fDhSQBk7SVNdLlaZW0_aJQ=s176-c-k-c0x00ffffff-no-rj-mo"> [Hacksmith Industries](https://www.youtube.com/@theHacksmith "@theHacksmith")
 - <img alt="Channel icon" title="Channel icon" height="24" src="https://yt3.googleusercontent.com/GP41oxp7pD5tk608IZZJaOr9c7IXSTcq9YaZIvFJVMqLX-E6C7e5N7qIqX_yyqZsuFsCF6AO0g=s176-c-k-c0x00ffffff-no-rj-mo"> [Fireball Tool](https://www.youtube.com/@FireballTool "@FireballTool")
 - <img alt="Channel icon" title="Channel icon" height="24" src="https://yt3.googleusercontent.com/ytc/AOPolaRtGzfO7VaDBVbd6IJrnkV8QnEIMXbcT1a7FjzQSw=s176-c-k-c0x00ffffff-no-rj-mo"> [I did a thing](https://www.youtube.com/@Ididathing "@Ididathing")
