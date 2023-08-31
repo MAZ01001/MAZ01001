@@ -2,18 +2,22 @@
 
 Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") on 2023-08-30
 
-- Channel lists
-  - [Entertainer (General List)](#entertainer-general-list "Scroll down to channels list: Entertainer (General List)")
-  - [Animations](#animations "Scroll down to channels list: Animations")
-  - [mechanics](#mechanics "Scroll down to channels list: mechanics")
-  - [documentaries](#documentaries "Scroll down to channels list: documentaries")
-  - [Backrooms / SCP](#backrooms--scp "Scroll down to channels list: Backrooms / SCP")
-  - [science](#science "Scroll down to channels list: science")
-  - [technology](#technology "Scroll down to channels list: technology")
-  - [Maths](#maths "Scroll down to channels list: Maths")
-  - [electronics](#electronics "Scroll down to channels list: electronics")
-  - [game dev](#game-dev "Scroll down to channels list: game dev")
-- [_Code to get channel lists_](#code-to-get-channel-lists "Scroll down to: Code to get channel lists")
+| Count | Channel list                                                                                                       |
+| -----:| ------------------------------------------------------------------------------------------------------------------ |
+|    44 | [Entertainer (General List)](#entertainer-general-list "Scroll down to channels list: Entertainer (General List)") |
+|    35 | [Animations](#animations "Scroll down to channels list: Animations")                                               |
+|    17 | [mechanics](#mechanics "Scroll down to channels list: mechanics")                                                  |
+|    26 | [documentaries](#documentaries "Scroll down to channels list: documentaries")                                      |
+|     7 | [Backrooms / SCP](#backrooms--scp "Scroll down to channels list: Backrooms / SCP")                                 |
+|    26 | [science](#science "Scroll down to channels list: science")                                                        |
+|    17 | [technology](#technology "Scroll down to channels list: technology")                                               |
+|     9 | [Maths](#maths "Scroll down to channels list: Maths")                                                              |
+|     7 | [electronics](#electronics "Scroll down to channels list: electronics")                                            |
+|    32 | [game dev](#game-dev "Scroll down to channels list: game dev")                                                     |
+
+220 total / 209 unique
+
+[_Code to get channel lists_](#code-to-get-channel-lists "Scroll down to: Code to get channel lists")
 
 ## [Entertainer (General List)](https://www.youtube.com/@MAZ01001/channels?view=49&flow=grid&shelf_id=3 "View list on YouTube")
 
