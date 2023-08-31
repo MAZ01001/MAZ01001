@@ -10,12 +10,12 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 |    26 | [documentaries](#documentaries "Scroll down to channels list: documentaries")                                      |
 |     7 | [Backrooms / SCP](#backrooms--scp "Scroll down to channels list: Backrooms / SCP")                                 |
 |    26 | [science](#science "Scroll down to channels list: science")                                                        |
-|    17 | [technology](#technology "Scroll down to channels list: technology")                                               |
+|    18 | [technology](#technology "Scroll down to channels list: technology")                                               |
 |     9 | [Maths](#maths "Scroll down to channels list: Maths")                                                              |
 |     7 | [electronics](#electronics "Scroll down to channels list: electronics")                                            |
 |    32 | [game dev](#game-dev "Scroll down to channels list: game dev")                                                     |
 
-220 total / 209 unique
+221 total / 210 unique
 
 [_Code to get channel lists_](#code-to-get-channel-lists "Scroll down to: Code to get channel lists")
 
@@ -218,7 +218,7 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 
 ## [technology](https://www.youtube.com/@MAZ01001/channels?view=49&flow=grid&shelf_id=9 "View list on YouTube")
 
-<details open><summary>Click to hide 17 channels</summary>
+<details open><summary>Click to hide 18 channels</summary>
 
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaTf_QMmtPB03NeYxu59S2fP2e2yAbUUzA014wslXQ=s176-c-k-c0x00ffffff-no-rj-mo"> [CS50](https://www.youtube.com/@cs50 "@cs50")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaTHv-UCC2RnEAYNaAWA7Jl5WhDdC3GtK6kLXns2qQ=s176-c-k-c0x00ffffff-no-rj-mo"> [The 8-Bit Guy](https://www.youtube.com/@The8BitGuy "@The8BitGuy")
@@ -233,6 +233,7 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaSgDD9QHBa-zJaVAn_KX-oy-p2CeFJGHzp-colc=s176-c-k-c0x00ffffff-no-rj-mo"> [Technology Connections](https://www.youtube.com/@TechnologyConnections "@TechnologyConnections")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaRqQMFxI1Buq0VdF0zi3tMUqvXoQqTzXqrYNBG3=s176-c-k-c0x00ffffff-no-rj-mo"> [Captain Disillusion](https://www.youtube.com/@CaptainDisillusion "@CaptainDisillusion")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaQ3lZqq6q8muV9zDfPmEx6HtCe4q_VL7JmdeHQyKQ=s176-c-k-c0x00ffffff-no-rj-mo"> [LiveOverflow](https://www.youtube.com/@LiveOverflow "@LiveOverflow")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ZeokXdjeXW_6CpcChqvVBEBcHoJ9TAaLTnQj8yT942LLV8afhmUv6zLtqzbNS1uPnernj3SPshA=s176-c-k-c0x00ffffff-no-rj-mo"> [David Bombal](https://www.youtube.com/@davidbombal "@davidbombal")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaQI1Tf4HKhlNI5lkH45qKlyM1JrGpMGauvsPWIB=s176-c-k-c0x00ffffff-no-rj-mo"> [Code Bullet](https://www.youtube.com/@CodeBullet "@CodeBullet")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/1tBuT_td5hOsRFigOjwAWls4SazyhZpoEuYZ9R8572J2odebeqgYvn7CmLDowHvPMutq9Ind=s176-c-k-c0x00ffffff-no-rj-mo"> [Jabrils](https://www.youtube.com/@Jabrils "@Jabrils")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaSbyLtrPwcOWXvuLeTLSy3i53d-4o9ebcFh9IvjKQ=s176-c-k-c0x00ffffff-no-rj-mo"> [carykh](https://www.youtube.com/@carykh "@carykh")
