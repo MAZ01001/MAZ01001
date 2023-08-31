@@ -17,7 +17,7 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 
 ## [Entertainer (General List)](https://www.youtube.com/@MAZ01001/channels?view=49&flow=grid&shelf_id=3 "View list on YouTube")
 
-<details closed><summary>Click to view 44 channels</summary>
+<details open><summary>Click to hide 44 channels</summary>
 
 - <img alt="Channel icon" title="Channel icon" height="24" src="https://yt3.googleusercontent.com/ytc/AOPolaSw2QcdM21e4ed7TadTPZ76sT9gVJ9f3V9iYfc1vA=s176-c-k-c0x00ffffff-no-rj-mo"> [Markiplier](https://www.youtube.com/@markiplier "@markiplier")
 - <img alt="Channel icon" title="Channel icon" height="24" src="https://yt3.googleusercontent.com/ytc/AOPolaRLxk3C0lwOw2r11C1aeSTJbI2nPoYiCCr_RXYMcg=s176-c-k-c0x00ffffff-no-rj-mo"> [Gronkh](https://www.youtube.com/@gronkh "@gronkh")
@@ -68,7 +68,7 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 
 ## [Animations](https://www.youtube.com/@MAZ01001/channels?view=49&flow=grid&shelf_id=4 "View list on YouTube")
 
-<details closed><summary>Click to view 35 channels</summary>
+<details open><summary>Click to hide 35 channels</summary>
 
 - <img alt="Channel icon" title="Channel icon" height="24" src="https://yt3.googleusercontent.com/ytc/AOPolaQH7k-w5rF7GTtWWR53Swz76EEDbWPL_StIzua6rw=s176-c-k-c0x00ffffff-no-rj-mo"> [newgrounds](https://www.youtube.com/@newgrounds "@newgrounds")
 - <img alt="Channel icon" title="Channel icon" height="24" src="https://yt3.googleusercontent.com/ytc/AOPolaT0ZNL-P4SW714UX7M9tyL7BMmSXX5PeZeWWQ-WM04=s176-c-k-c0x00ffffff-no-rj-mo"> [TerminalMontage](https://www.youtube.com/@TerminalMontage "@TerminalMontage")
@@ -110,7 +110,7 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 
 ## [mechanics](https://www.youtube.com/@MAZ01001/channels?view=49&flow=grid&shelf_id=5 "View list on YouTube")
 
-<details closed><summary>Click to view 17 channels</summary>
+<details open><summary>Click to hide 17 channels</summary>
 
 - <img alt="Channel icon" title="Channel icon" height="24" src="https://yt3.googleusercontent.com/ytc/AOPolaRfl_WPj9fiDmLI5ABNohb6MMw8A8C38geOp9b7wg=s176-c-k-c0x00ffffff-no-rj-mo"> [This Old Tony](https://www.youtube.com/@ThisOldTony "@ThisOldTony")
 - <img alt="Channel icon" title="Channel icon" height="24" src="https://yt3.googleusercontent.com/ytc/AOPolaRe0H2K6ICHrOP71PIPfITKVPPcVNTVya8Herj_2w=s176-c-k-c0x00ffffff-no-rj-mo"> [Clickspring](https://www.youtube.com/@Clickspring "@Clickspring")
@@ -134,7 +134,7 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 
 ## [documentaries](https://www.youtube.com/@MAZ01001/channels?view=49&flow=grid&shelf_id=6 "View list on YouTube")
 
-<details closed><summary>Click to view 26 channels</summary>
+<details open><summary>Click to hide 26 channels</summary>
 
 - <img alt="Channel icon" title="Channel icon" height="24" src="https://yt3.googleusercontent.com/ytc/AOPolaQe53uLoXNPZY7cb-G-M8B8agTgIhth0t0WalDB=s176-c-k-c0x00ffffff-no-rj-mo"> [LEMMiNO](https://www.youtube.com/@LEMMiNO "@LEMMiNO")
 - <img alt="Channel icon" title="Channel icon" height="24" src="https://yt3.googleusercontent.com/ytc/AOPolaSJdVkMeTsZlGDeCQ8htjzgc3uxhsTgtBpqDl55hw=s176-c-k-c0x00ffffff-no-rj-mo"> [Ahoy](https://www.youtube.com/@XboxAhoy "@XboxAhoy")
@@ -167,7 +167,7 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 
 ## [Backrooms / SCP](https://www.youtube.com/@MAZ01001/channels?view=49&flow=grid&shelf_id=7 "View list on YouTube")
 
-<details closed><summary>Click to view 7 channels</summary>
+<details open><summary>Click to hide 7 channels</summary>
 
 - <img alt="Channel icon" title="Channel icon" height="24" src="https://yt3.googleusercontent.com/ytc/AOPolaQ5cCLsMqUzgI_NSha50Z16onxpaB8PBndVF0yPQto=s176-c-k-c0x00ffffff-no-rj-mo"> [Kane Pixels](https://www.youtube.com/@kanepixels "@kanepixels")
 - <img alt="Channel icon" title="Channel icon" height="24" src="https://yt3.googleusercontent.com/Die2eIb4ak_JpIpAVNpzR7O2q5eCkmYh2D58A5e3PKlFJ4Qyxcr2PP7UA4J6i36s7nkPVK6o=s176-c-k-c0x00ffffff-no-rj-mo"> [Andy R Animations](https://www.youtube.com/@andyranimations "@andyranimations")
@@ -181,7 +181,7 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 
 ## [science](https://www.youtube.com/@MAZ01001/channels?view=49&flow=grid&shelf_id=8 "View list on YouTube")
 
-<details closed><summary>Click to view 26 channels</summary>
+<details open><summary>Click to hide 26 channels</summary>
 
 - <img alt="Channel icon" title="Channel icon" height="24" src="https://yt3.googleusercontent.com/ytc/AOPolaRZ9DHwcU8O9Z7p5yH6KvKHKwpU7ZHlWCXLkKN62A=s176-c-k-c0x00ffffff-no-rj-mo"> [Kurzgesagt – In a Nutshell](https://www.youtube.com/@kurzgesagt "@kurzgesagt")
 - <img alt="Channel icon" title="Channel icon" height="24" src="https://yt3.googleusercontent.com/ytc/AOPolaTeHtkxl6aSpF7voXkGb7YY5UCCf2GEKQB0SyakQQ=s176-c-k-c0x00ffffff-no-rj-mo"> [Veritasium](https://www.youtube.com/@veritasium "@veritasium")
@@ -214,7 +214,7 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 
 ## [technology](https://www.youtube.com/@MAZ01001/channels?view=49&flow=grid&shelf_id=9 "View list on YouTube")
 
-<details closed><summary>Click to view 17 channels</summary>
+<details open><summary>Click to hide 17 channels</summary>
 
 - <img alt="Channel icon" title="Channel icon" height="24" src="https://yt3.googleusercontent.com/ytc/AOPolaTf_QMmtPB03NeYxu59S2fP2e2yAbUUzA014wslXQ=s176-c-k-c0x00ffffff-no-rj-mo"> [CS50](https://www.youtube.com/@cs50 "@cs50")
 - <img alt="Channel icon" title="Channel icon" height="24" src="https://yt3.googleusercontent.com/ytc/AOPolaTHv-UCC2RnEAYNaAWA7Jl5WhDdC3GtK6kLXns2qQ=s176-c-k-c0x00ffffff-no-rj-mo"> [The 8-Bit Guy](https://www.youtube.com/@The8BitGuy "@The8BitGuy")
@@ -238,7 +238,7 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 
 ## [Maths](https://www.youtube.com/@MAZ01001/channels?view=49&flow=grid&shelf_id=10 "View list on YouTube")
 
-<details closed><summary>Click to view 9 channels</summary>
+<details open><summary>Click to hide 9 channels</summary>
 
 - <img alt="Channel icon" title="Channel icon" height="24" src="https://yt3.googleusercontent.com/ytc/AOPolaRiX6pCL3PclVzcfCjr_IufDdng_0DMWMuNr-2o3Q=s176-c-k-c0x00ffffff-no-rj-mo"> [Mathologer](https://www.youtube.com/@Mathologer "@Mathologer")
 - <img alt="Channel icon" title="Channel icon" height="24" src="https://yt3.googleusercontent.com/ytc/AOPolaROW_3OBcak6OYl0JetcvYY8xmEvVJbXVhkxYxbPA=s176-c-k-c0x00ffffff-no-rj-mo"> [3Blue1Brown](https://www.youtube.com/@3blue1brown "@3blue1brown")
@@ -254,7 +254,7 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 
 ## [electronics](https://www.youtube.com/@MAZ01001/channels?view=49&flow=grid&shelf_id=11 "View list on YouTube")
 
-<details closed><summary>Click to view 7 channels</summary>
+<details open><summary>Click to hide 7 channels</summary>
 
 - <img alt="Channel icon" title="Channel icon" height="24" src="https://yt3.googleusercontent.com/ytc/AOPolaRrY6YUKKlIqyA6h1HVtdQM4IqoT2gc3rabqqYl=s176-c-k-c0x00ffffff-no-rj-mo"> [Ben Eater](https://www.youtube.com/@BenEater "@BenEater")
 - <img alt="Channel icon" title="Channel icon" height="24" src="https://yt3.googleusercontent.com/ytc/AOPolaQZQ7rcSzIONcZHdNO-ztyfjgbeqfUa4BT9Fw=s176-c-k-c0x00ffffff-no-rj-mo"> [mitxela](https://www.youtube.com/@mitxela "@mitxela")
@@ -268,7 +268,7 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 
 ## [game dev](https://www.youtube.com/@MAZ01001/channels?view=49&flow=grid&shelf_id=12 "View list on YouTube")
 
-<details closed><summary>Click to view 32 channels</summary>
+<details open><summary>Click to hide 32 channels</summary>
 
 - <img alt="Channel icon" title="Channel icon" height="24" src="https://yt3.googleusercontent.com/iEVdHSqLXHQuW9k2iekjvXe5AzCsYDYPgTYofbUJlim1IsO4tat96xZ_UtX2gtA4jD9_lx6S=s176-c-k-c0x00ffffff-no-rj-mo"> [Game Maker's Toolkit](https://www.youtube.com/@GMTK "@GMTK")
 - <img alt="Channel icon" title="Channel icon" height="24" src="https://yt3.googleusercontent.com/ytc/AOPolaSaBCABc6R-LobRkGS6RKUvG_SAVv3GJoJjexHGuA=s176-c-k-c0x00ffffff-no-rj-mo"> [Brackeys](https://www.youtube.com/@Brackeys "@Brackeys")
