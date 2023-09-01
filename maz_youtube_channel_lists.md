@@ -2,22 +2,22 @@
 
 Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") on 2023-08-30
 
-| Count | Channel list                                                                                                       |
+| Count | Channel list (click to scroll to the list)                                                                                                       |
 | -----:| ------------------------------------------------------------------------------------------------------------------ |
-|    44 | [Entertainer (General List)](#entertainer-general-list "Scroll down to channels list: Entertainer (General List)") |
-|    35 | [Animations](#animations "Scroll down to channels list: Animations")                                               |
-|    17 | [mechanics](#mechanics "Scroll down to channels list: mechanics")                                                  |
-|    27 | [documentaries](#documentaries "Scroll down to channels list: documentaries")                                      |
-|     7 | [Backrooms / SCP](#backrooms--scp "Scroll down to channels list: Backrooms / SCP")                                 |
-|    26 | [science](#science "Scroll down to channels list: science")                                                        |
-|    18 | [technology](#technology "Scroll down to channels list: technology")                                               |
-|     9 | [Maths](#maths "Scroll down to channels list: Maths")                                                              |
-|     7 | [electronics](#electronics "Scroll down to channels list: electronics")                                            |
-|    32 | [game dev](#game-dev "Scroll down to channels list: game dev")                                                     |
+|    44 | [Entertainer (General List)](#entertainer-general-list "Scroll down to section: Entertainer (General List)") |
+|    35 | [Animations](#animations "Scroll down to section: Animations")                                               |
+|    17 | [mechanics](#mechanics "Scroll down to section: mechanics")                                                  |
+|    27 | [documentaries](#documentaries "Scroll down to section: documentaries")                                      |
+|     7 | [Backrooms / SCP](#backrooms--scp "Scroll down to section: Backrooms / SCP")                                 |
+|    26 | [science](#science "Scroll down to section: science")                                                        |
+|    18 | [technology](#technology "Scroll down to section: technology")                                               |
+|     9 | [Maths](#maths "Scroll down to section: Maths")                                                              |
+|     7 | [electronics](#electronics "Scroll down to section: electronics")                                            |
+|    32 | [game dev](#game-dev "Scroll down to section: game dev")                                                     |
 
 222 total / 211 unique
 
-[_Code to get channel lists_](#code-to-get-channel-lists "Scroll down to: Code to get channel lists")
+[_Code to get channel lists_](#code-to-get-channel-lists "Scroll down to section: Code to get channel lists")
 
 ## [Entertainer (General List)](https://www.youtube.com/@MAZ01001/channels?view=49&flow=grid&shelf_id=3 "View list on YouTube")
 
@@ -70,6 +70,9 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 
 </details>
 
+Scroll [UP](#entertainer-general-list "Scroll to start of section: Entertainer (General List)")
+    | [TOP](#maz-youtube-channel-lists "Scroll to top of document: MAZ YouTube channel lists")
+
 ## [Animations](https://www.youtube.com/@MAZ01001/channels?view=49&flow=grid&shelf_id=4 "View list on YouTube")
 
 <details open><summary>Click to hide 35 channels</summary>
@@ -112,6 +115,9 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 
 </details>
 
+Scroll [UP](#animations "Scroll to start of section: Animations")
+    | [TOP](#maz-youtube-channel-lists "Scroll to top of document: MAZ YouTube channel lists")
+
 ## [mechanics](https://www.youtube.com/@MAZ01001/channels?view=49&flow=grid&shelf_id=5 "View list on YouTube")
 
 <details open><summary>Click to hide 17 channels</summary>
@@ -135,6 +141,9 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaRpruyfxEOUXTsoWj5JJYt7mj_miGGZ5hLnGZmr=s176-c-k-c0x00ffffff-no-rj-mo"> [Stuff Made Here](https://www.youtube.com/@StuffMadeHere "@StuffMadeHere")
 
 </details>
+
+Scroll [UP](#mechanics "Scroll to start of section: mechanics")
+    | [TOP](#maz-youtube-channel-lists "Scroll to top of document: MAZ YouTube channel lists")
 
 ## [documentaries](https://www.youtube.com/@MAZ01001/channels?view=49&flow=grid&shelf_id=6 "View list on YouTube")
 
@@ -170,6 +179,9 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 
 </details>
 
+Scroll [UP](#documentaries "Scroll to start of section: documentaries")
+    | [TOP](#maz-youtube-channel-lists "Scroll to top of document: MAZ YouTube channel lists")
+
 ## [Backrooms / SCP](https://www.youtube.com/@MAZ01001/channels?view=49&flow=grid&shelf_id=7 "View list on YouTube")
 
 <details open><summary>Click to hide 7 channels</summary>
@@ -183,6 +195,9 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaQyV26X5UwUCp-NSziPt3SaDyHYcl1NgX9gduYI=s176-c-k-c0x00ffffff-no-rj-mo"> [SCP Animated - Tales From The Foundation](https://www.youtube.com/@scpanimated "@scpanimated")
 
 </details>
+
+Scroll [UP](#backrooms--scp "Scroll to start of section: Backrooms / SCP")
+    | [TOP](#maz-youtube-channel-lists "Scroll to top of document: MAZ YouTube channel lists")
 
 ## [science](https://www.youtube.com/@MAZ01001/channels?view=49&flow=grid&shelf_id=8 "View list on YouTube")
 
@@ -217,6 +232,9 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 
 </details>
 
+Scroll [UP](#science "Scroll to start of section: science")
+    | [TOP](#maz-youtube-channel-lists "Scroll to top of document: MAZ YouTube channel lists")
+
 ## [technology](https://www.youtube.com/@MAZ01001/channels?view=49&flow=grid&shelf_id=9 "View list on YouTube")
 
 <details open><summary>Click to hide 18 channels</summary>
@@ -242,6 +260,9 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 
 </details>
 
+Scroll [UP](#technology "Scroll to start of section: technology")
+    | [TOP](#maz-youtube-channel-lists "Scroll to top of document: MAZ YouTube channel lists")
+
 ## [Maths](https://www.youtube.com/@MAZ01001/channels?view=49&flow=grid&shelf_id=10 "View list on YouTube")
 
 <details open><summary>Click to hide 9 channels</summary>
@@ -258,6 +279,9 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 
 </details>
 
+Scroll [UP](#maths "Scroll to start of section: Maths")
+    | [TOP](#maz-youtube-channel-lists "Scroll to top of document: MAZ YouTube channel lists")
+
 ## [electronics](https://www.youtube.com/@MAZ01001/channels?view=49&flow=grid&shelf_id=11 "View list on YouTube")
 
 <details open><summary>Click to hide 7 channels</summary>
@@ -271,6 +295,9 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaQX_wl68hBpFN4Au5K6-xlIFbTGmmyC1sQ8zy-e=s176-c-k-c0x00ffffff-no-rj-mo"> [AvE](https://www.youtube.com/@arduinoversusevil2025 "@arduinoversusevil2025")
 
 </details>
+
+Scroll [UP](#electronics "Scroll to start of section: electronics")
+    | [TOP](#maz-youtube-channel-lists "Scroll to top of document: MAZ YouTube channel lists")
 
 ## [game dev](https://www.youtube.com/@MAZ01001/channels?view=49&flow=grid&shelf_id=12 "View list on YouTube")
 
@@ -311,6 +338,9 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 
 </details>
 
+Scroll [UP](#game-dev "Scroll to start of section: game dev")
+    | [TOP](#maz-youtube-channel-lists "Scroll to top of document: MAZ YouTube channel lists")
+
 ## Code to get channel lists
 
 <details closed><summary>Click to view code</summary>
@@ -341,3 +371,5 @@ document.body.querySelectorAll("div#items>ytd-grid-channel-renderer").length;
 ```
 
 </details>
+
+Scroll [TOP](#maz-youtube-channel-lists "Scroll to top of document: MAZ YouTube channel lists")
