@@ -1,13 +1,13 @@
 # MAZ YouTube channel lists
 
-Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") on 2023-08-30
+Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") on 2023-09-04
 
-| Count | Channel list (click to scroll to the list)                                                                                                       |
-| -----:| ------------------------------------------------------------------------------------------------------------------ |
+| Count | Channel list (click to scroll to the list)                                                                   |
+| -----:| ------------------------------------------------------------------------------------------------------------ |
 |    44 | [Entertainer (General List)](#entertainer-general-list "Scroll down to section: Entertainer (General List)") |
 |    35 | [Animations](#animations "Scroll down to section: Animations")                                               |
-|    17 | [mechanics](#mechanics "Scroll down to section: mechanics")                                                  |
-|    27 | [documentaries](#documentaries "Scroll down to section: documentaries")                                      |
+|    18 | [mechanics](#mechanics "Scroll down to section: mechanics")                                                  |
+|    30 | [documentaries](#documentaries "Scroll down to section: documentaries")                                      |
 |     7 | [Backrooms / SCP](#backrooms--scp "Scroll down to section: Backrooms / SCP")                                 |
 |    26 | [science](#science "Scroll down to section: science")                                                        |
 |    18 | [technology](#technology "Scroll down to section: technology")                                               |
@@ -15,7 +15,7 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 |     7 | [electronics](#electronics "Scroll down to section: electronics")                                            |
 |    32 | [game dev](#game-dev "Scroll down to section: game dev")                                                     |
 
-222 total / 211 unique
+226 total / 215 unique
 
 [_Code to get channel lists_](#code-to-get-channel-lists "Scroll down to section: Code to get channel lists")
 
@@ -42,8 +42,9 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaRQkljguKOdjU8gpHfie-IXCn8vucmwkAD8Ok9s=s176-c-k-c0x00ffffff-no-rj-mo"> [8-Bit Keys](https://www.youtube.com/@8BitKeys "@8BitKeys")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/XAUwyH4PxuTm_Vx719LZCClUiyQebd8Ofk_-j5Vqn7WewmAI5dpfleEyVSq5xtBiekXC7q4HpQ=s176-c-k-c0x00ffffff-no-rj-mo"> [Davis Schulz](https://www.youtube.com/@DavisSchulz "@DavisSchulz")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/xgiR9tWFnYxCa-QtutTH2oBkMQO-45S18pVuG6O9eCd3ahAHaIxuQlkIfPa5ZChIsrgYGvfp=s176-c-k-c0x00ffffff-no-rj-mo"> [Chillyman](https://www.youtube.com/@Chillyman "@Chillyman")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaQiKOg02FAfhZxC32V00sBlnZMZiIvUuxJlnIPKmw=s176-c-k-c0x00ffffff-no-rj-mo"> [Takuya Okada](https://www.youtube.com/@takuya4483 "@takuya4483")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaSuVcneE5mB1r7_RsbTwmeGSg0YXLYRufaiWxV99g=s176-c-k-c0x00ffffff-no-rj-mo"> [Takuya Okada](https://www.youtube.com/@takuya4483 "@takuya4483")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaQHs1OFdK-z7lFO57Y9Cg-MejnlycJMPWuoiQ-4B2Q=s176-c-k-c0x00ffffff-no-rj-mo"> [David Firth](https://www.youtube.com/@davidfirth "@davidfirth")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaTw1QxrHqoMNzRilvo2Pek33-7kgWlJ8l63__QO=s176-c-k-c0x00ffffff-no-rj-mo"> [Pirate Software](https://www.youtube.com/@PirateSoftware "@PirateSoftware")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaT67E27lFaNNA1kwwLD1Z4Vwx6C8AowtbSAlOvZtA=s176-c-k-c0x00ffffff-no-rj-mo"> [James Lee](https://www.youtube.com/@JamesLee "@JamesLee")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaSS4Zr3xsbHP7vC0NawN1ybSxcIVhjwl97JnN-rCEM=s176-c-k-c0x00ffffff-no-rj-mo"> [Peter Draws](https://www.youtube.com/@peter_draws "@peter_draws")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaQeXCTmEKpezV2TF5gPruT82tZoVBTvrleM98Yycg=s176-c-k-c0x00ffffff-no-rj-mo"> [The Living Tombstone](https://www.youtube.com/@TheLivingTombstone "@TheLivingTombstone")
@@ -57,16 +58,15 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaTf9CKMkNdwJgwtb8gkSKBlaVEwsLn-LaaA3KSY9g=s176-c-k-c0x00ffffff-no-rj-mo"> [Quarks](https://www.youtube.com/@Quarks "@Quarks")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/vGASU-RR8J9qCUEjPodzQosejzrlaXTx8s8Ot6nQRiPqKPCAilJvsEnKkmVM0fYjZYKj09G1=s176-c-k-c0x00ffffff-no-rj-mo"> [simpleclub - Die Lernapp](https://www.youtube.com/@simpleclub_de "@simpleclub_de")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaQmo7Uq2X4pi0iOko9Zk4C9m2Ax0iw-U0bdo90_=s176-c-k-c0x00ffffff-no-rj-mo"> [Doktor Allwissend](https://www.youtube.com/@doktorallwissend "@doktorallwissend")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/42B-G7bk9P54jgxLx0_7kBO9RWVzrwpyGQXMNE_mhu8F3b6bezppyFIuz_TT8KuW1Av8vnlGPQ=s176-c-k-c0x00ffffff-no-rj-mo"> [WBS LEGAL](https://www.youtube.com/@wbs_legal "@wbs_legal")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaTI40cLTpUIt4s1HncCXJ5J1OCaoVkyx6XWOYh5sw=s176-c-k-c0x00ffffff-no-rj-mo"> [kiwami japan](https://www.youtube.com/@kiwami-japan "@kiwami-japan")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/4YWXz2jC7m9haHfdJwLMPhfqiqygjn9lzKjo8os-1N-IEVQGds5Whs4OUQK6HP2g6oK3lp_FEw=s176-c-k-c0x00ffffff-no-rj-mo"> [Vinheteiro](https://www.youtube.com/@Lord_Vinheteiro "@Lord_Vinheteiro")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaT3MXAsj5q72gnpwFmCIGUM3VtVm7-C1-6YJE4mLA=s176-c-k-c0x00ffffff-no-rj-mo"> [Sheet Music Boss](https://www.youtube.com/@SheetMusicBoss "@SheetMusicBoss")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaTRIyLxKje9scG2CXsWK7QkX0ePVmBdlraMkkDvbQ=s176-c-k-c0x00ffffff-no-rj-mo"> [Kevin MacLeod](https://www.youtube.com/@incompetech_kmac "@incompetech_kmac")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaQGBhkCdk_FtYZ39kevfyQ30U-OVfZPMKNqbq2p=s176-c-k-c0x00ffffff-no-rj-mo"> [Jay & Arya](https://www.youtube.com/@jayandarya "@jayandarya")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/02y5TXjlMB5teQ3UT1enBqPfmH8UBawQrzRIiB_bCwI-JDx-gSdGRQ0JlFNU2rqGFfxjND0OUe8=s176-c-k-c0x00ffffff-no-rj-mo"> [iBlali](https://www.youtube.com/@iblali "@iblali")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaSc1XY0qChWgDBJJFFduZnl-uYkfZmN6EFwiZ9Pcg=s176-c-k-c0x00ffffff-no-rj-mo"> [ApeCrime](https://www.youtube.com/@ApeCrime "@ApeCrime")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/tiRGr71H-VLfTHMiXLqODfbWKGxoUtsyvgfhNk_oBbKglpf2H-JM1upWdYLSO2p4TEDN7uNDZek=s176-c-k-c0x00ffffff-no-rj-mo"> [my mechanics](https://www.youtube.com/@mymechanics "@mymechanics")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/42B-G7bk9P54jgxLx0_7kBO9RWVzrwpyGQXMNE_mhu8F3b6bezppyFIuz_TT8KuW1Av8vnlGPQ=s176-c-k-c0x00ffffff-no-rj-mo"> [WBS LEGAL](https://www.youtube.com/@wbs_legal "@wbs_legal")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/1T067AXy174-ahl8b3xyMBRJn1k2b9HGmxzjP8842SiLjtULbYWl-0KEieRDdEnzEA359kAE=s176-c-k-c0x00ffffff-no-rj-mo"> [TKOR](https://www.youtube.com/@TheKingofRandom "@TheKingofRandom")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaTI40cLTpUIt4s1HncCXJ5J1OCaoVkyx6XWOYh5sw=s176-c-k-c0x00ffffff-no-rj-mo"> [kiwami japan](https://www.youtube.com/@kiwami-japan "@kiwami-japan")
 
 </details>
 
@@ -129,6 +129,7 @@ Scroll [UP](#animations "Scroll to start of section: Animations")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaQ0llS2dARUQu5yb-pNywP5tpN3ZS8SCeJGEJjXiQ=s176-c-k-c0x00ffffff-no-rj-mo"> [colinfurze](https://www.youtube.com/@colinfurze "@colinfurze")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaRkpLip6JRlmTvEqIcHp-5lKwjsacrW3hXigxCVAA=s176-c-k-c0x00ffffff-no-rj-mo"> [AWE me](https://www.youtube.com/@AweMe "@AweMe")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaRo2NY86NNHI8XEvJ54KgTvIgXO8Eji0dyu6PoC=s176-c-k-c0x00ffffff-no-rj-mo"> [Hand Tool Rescue](https://www.youtube.com/@HandToolRescue "@HandToolRescue")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/tiRGr71H-VLfTHMiXLqODfbWKGxoUtsyvgfhNk_oBbKglpf2H-JM1upWdYLSO2p4TEDN7uNDZek=s176-c-k-c0x00ffffff-no-rj-mo"> [my mechanics](https://www.youtube.com/@mymechanics "@mymechanics")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/E1ksRh-aleD0c5ZZPJFa_ekfwNfN-5FcJNyBH66M0poOKyeECtkSghfS5hQOlOpRdWiJyRHlMQ=s176-c-k-c0x00ffffff-no-rj-mo"> [Inheritance Machining](https://www.youtube.com/@InheritanceMachining "@InheritanceMachining")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/KFB53wRenII7VQEYIER3-sRL0J9jttv8dRwPk8Rie9mpCmQZqBt1fDhSQBk7SVNdLlaZW0_aJQ=s176-c-k-c0x00ffffff-no-rj-mo"> [Hacksmith Industries](https://www.youtube.com/@theHacksmith "@theHacksmith")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/GP41oxp7pD5tk608IZZJaOr9c7IXSTcq9YaZIvFJVMqLX-E6C7e5N7qIqX_yyqZsuFsCF6AO0g=s176-c-k-c0x00ffffff-no-rj-mo"> [Fireball Tool](https://www.youtube.com/@FireballTool "@FireballTool")
@@ -164,13 +165,16 @@ Scroll [UP](#mechanics "Scroll to start of section: mechanics")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaQ78RYtz_01Xdub4TDPh6rprF4-AjtUg-8eLurq=s176-c-k-c0x00ffffff-no-rj-mo"> [Brew](https://www.youtube.com/@Brew "@Brew")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/qnLNEeJWc-RAwghuNevTGzZyBhaUgV5vXNBc3hsTq0837VXQTKwyRPk23WEYOrDJkA8au7L20w=s176-c-k-c0x00ffffff-no-rj-mo"> [DidYouKnowGaming](https://www.youtube.com/@DidYouKnowGamin "@DidYouKnowGamin")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/oQq1J4OvgO99a9t1bf-tbka1JaoUHF7tQVZd4IbOEKo1tM1QVph52YhrKpwnSV6kAjXvAniAgw=s176-c-k-c0x00ffffff-no-rj-mo"> [Noodle](https://www.youtube.com/@noodlefunny "@noodlefunny")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaRvhoAIR2JUQ97PC4CP-gHhp2a3NbJGLR_NZUcaKA=s176-c-k-c0x00ffffff-no-rj-mo"> [Simplicissimus](https://www.youtube.com/@Simplicissimus "@Simplicissimus")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/PrOFbAep0-Av3GGBrnRJvDDSMJK6MkW2iG2kzpf88UfqsC7BKQIXBv2nG5cLHs3zBdgFAdGMUBI=s176-c-k-c0x00ffffff-no-rj-mo"> [Curious Archive](https://www.youtube.com/@CuriousArchive "@CuriousArchive")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/TEN3sY_1LKglZnaxkaFkkPLUZqrh2h1IpmITeoUqMMEATkFywu4v5RjwwNftCtg5XvMYz4wUrA=s176-c-k-c0x00ffffff-no-rj-mo"> [Extra History](https://www.youtube.com/@extrahistory "@extrahistory")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/KaMlbpL5pLAY3vNDvFTz60xeM_LvccYoZzjIgATSDVsDvHvw3FZT_7UbHnJ8Q4FLSK7KBWrV=s176-c-k-c0x00ffffff-no-rj-mo"> [Cinemassacre](https://www.youtube.com/@JamesNintendoNerd "@JamesNintendoNerd")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaRK93dP0uq4JZHX4L5VdvgZXoEdn8wGbxHSB3zDQQ=s176-c-k-c0x00ffffff-no-rj-mo"> [Shesez](https://www.youtube.com/@BoundaryBreak "@BoundaryBreak")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/r6kZZJ5AgNwpPiWC3Yto9N6Gg9OTYeBAZyo8HGiBhBhvEC3aQ-C9b0E73SH4dayoRoIamNZJSw=s176-c-k-c0x00ffffff-no-rj-mo"> [FitMC](https://www.youtube.com/@FitMC "@FitMC")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaQ_iEfHtfgHCLejPZNmq1G1C7jxT9LqdCr1GxYXEw=s176-c-k-c0x00ffffff-no-rj-mo"> [Oxhorn](https://www.youtube.com/@oxhorn "@oxhorn")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaSo0Wf0GnS9cv-dFPwlU5df5Ish_G0kp90orMce=s176-c-k-c0x00ffffff-no-rj-mo"> [EZScape](https://www.youtube.com/@EZScape "@EZScape")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaQBByJ-AfW_TTlBu7B1MMvv56OArXl3UIoVFuzYng=s176-c-k-c0x00ffffff-no-rj-mo"> [Retro Game Mechanics Explained](https://www.youtube.com/@RGMechEx "@RGMechEx")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaRvhoAIR2JUQ97PC4CP-gHhp2a3NbJGLR_NZUcaKA=s176-c-k-c0x00ffffff-no-rj-mo"> [Simplicissimus](https://www.youtube.com/@Simplicissimus "@Simplicissimus")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaRnsb_rYxbZRHWWbshAVVbiIQOr0opsUD-m3Myqsw=s176-c-k-c0x00ffffff-no-rj-mo"> [MrRhexx](https://www.youtube.com/@MrRhexx "@MrRhexx")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ndZBT5IROITTHkfC-nEzBVfMXM1b2o0dzeLPrLPAmCLc57ROuX6wCbbd3zvKIOlbDWMn5WJZC7E=s176-c-k-c0x00ffffff-no-rj-mo"> [Y-Kollektiv](https://www.youtube.com/@ykollektiv "@ykollektiv")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaTq9DLy4QghkULo48Gbv-anAYxsUwN-gIUzCJrmFA=s176-c-k-c0x00ffffff-no-rj-mo"> [Ultralativ](https://www.youtube.com/@Ultralativ "@Ultralativ")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AOPolaQfdCgBFRb2jUyE0EfoWc_GWiNxKWrb9LNsZFH-Qw=s176-c-k-c0x00ffffff-no-rj-mo"> [Whang!](https://www.youtube.com/@JustinWhangYt "@JustinWhangYt")
