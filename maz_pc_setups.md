@@ -116,10 +116,14 @@ Record to MKV (easier to restore if something happens) then convert to MP4 via [
 
 ```shell
 # Audio codec already is AAC, so it can be copied to save some time
-ffmpeg -i INPUT.mkv -c:a copy -c:v libx264 -crf 12 OUTPUT.mp4
+# Also use some compression to shrink the file size a bit
+ffmpeg -v level+warning -stats -i INPUT.mkv -c:a copy -c:v libx264 -crf 12 OUTPUT.mp4
 ```
 
-then it can be used in any video editing software (delete the MKV version only if you tested the MP4 version for errors first).
+Then it can be used in any video editing software (delete the MKV version only if you tested the MP4 version for errors first).
 
-_one could also add ` -metadata comment="VIDEO DESCRIPTION" -metadata title="VIDEO TITLE" `, to insert some metadata into the MP4 file_ \
-see [FFmpeg wiki](https://ffmpeg.org/ffmpeg-all.html "Official FFmpeg documentation") for some inspiration.
+[More information of this command](https://github.com/MAZ01001/other-projects/blob/main/ffmpeg.md#convert-mkv-to-mp4 "Description and links to documentation in my useful-FFmpeg-commands list here on GitHub")
+
+_one could also add ` -metadata comment="VIDEO DESCRIPTION" -metadata title="VIDEO TITLE" `, to insert some metadata into the MP4 file in one command._
+
+also see my [list of useful FFmpeg commands](https://github.com/MAZ01001/other-projects/blob/main/ffmpeg.md "A list on my GitHub for some useful FFmpeg commands with descriptions") and the [official FFmpeg wiki](https://ffmpeg.org/ffmpeg-all.html "The official FFmpeg documentation") for some inspiration.
