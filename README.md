@@ -4,16 +4,18 @@
   - [Formatted copy of channel lists](./maz_youtube_channel_lists.md "Open file: MAZ YouTube channel lists")
 - [Homepage](https://maz01001.github.io/ "MAZ01001.github.io") - coding projects and more social links
 - [Steam](http://steamcommunity.com/id/MAZ01001 "Steam/MAZ01001") - public games- and wishlist
+  - [Wishlist](https://store.steampowered.com/wishlist/id/MAZ01001/#sort=order "Steam wishlist MAZ01001") - order is roughly based on preference
+  - [Owned games list](https://steamcommunity.com/id/MAZ01001/games/?tab=all "Steam MAZ01001 owned games list") - Steam requires one to be logged in to view this list
 - [Twitch](https://www.twitch.tv/maz01001 "Twitch.tv/MAZ01001") - live coding/gaming (rare)
 - [Itch.io](https://maz01001.itch.io/ "MAZ01001.itch.io") - indie games and games I made or contributed
 
-### GitHub Stats
+## GitHub Stats
 
 <details closed><summary>Click to show some commit and language stats</summary>
 
 >
 > [!NOTE]\
-> JavaScript and CSS within HTML files count towards HTML,\
+> JavaScript and CSS within HTML files count towards HTML, \
 > also there's a lot of Shaderlab and HLSL I haven't written myself (from Unity projects).
 >
 > A large spike in commits might be a game jam.
