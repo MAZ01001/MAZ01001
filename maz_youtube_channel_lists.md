@@ -13,9 +13,9 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 |    22 | [technology](#technology "Scroll down to section: technology")                                               |
 |    11 | [Maths](#maths "Scroll down to section: Maths")                                                              |
 |     9 | [electronics](#electronics "Scroll down to section: electronics")                                            |
-|    34 | [game dev](#game-dev "Scroll down to section: game dev")                                                     |
+|    35 | [game dev](#game-dev "Scroll down to section: game dev")                                                     |
 
-245 total / 231 unique
+246 total / 232 unique
 
 [_Code to get channel lists_](#code-to-get-channel-lists "Scroll down to section: Code to get channel lists")
 
@@ -322,7 +322,7 @@ Scroll [UP](#electronics "Scroll to start of section: electronics")
 
 ## [game dev](https://www.youtube.com/@MAZ01001#:~:text=game%20dev "View list on YouTube")
 
-<details open><summary>Click to hide 34 channels</summary>
+<details open><summary>Click to hide 35 channels</summary>
 
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/iEVdHSqLXHQuW9k2iekjvXe5AzCsYDYPgTYofbUJlim1IsO4tat96xZ_UtX2gtA4jD9_lx6S=s176-c-k-c0x00ffffff-no-rj-mo"> [Game Maker's Toolkit](https://www.youtube.com/@GMTK "@GMTK")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/APkrFKYG22tVc7-lN5_rxNc0UIRpNjjnto6hv-DRNRvLIg=s176-c-k-c0x00ffffff-no-rj-mo"> [Brackeys](https://www.youtube.com/@Brackeys "@Brackeys")
@@ -352,6 +352,7 @@ Scroll [UP](#electronics "Scroll to start of section: electronics")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/APkrFKaOboO1q2-wmyTpy4di3BRcq7WOwAZkMplaAHf4=s176-c-k-c0x00ffffff-no-rj-mo"> [SimonDev](https://www.youtube.com/@simondev758 "@simondev758")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/APkrFKYk1Ks47XLQW2vOun-oHIwQT4G8qDInNS4k-PP-=s176-c-k-c0x00ffffff-no-rj-mo"> [The Art of Code](https://www.youtube.com/@TheArtofCodeIsCool "@TheArtofCodeIsCool")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/APkrFKZRPdm33Mi8F4bLQpwokftf8qdwTVCs6Hp2JKxQnw=s176-c-k-c0x00ffffff-no-rj-mo"> [Retro Game Mechanics Explained](https://www.youtube.com/@RGMechEx "@RGMechEx")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/APkrFKbV7xLDGiKJS9hD3NKj6TEnE7MPsEOpaIii7TM3=s176-c-k-c0x00ffffff-no-rj-mo"> [NesHacker](https://www.youtube.com/@NesHacker "@NesHacker")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/APkrFKZKpgFdyfr9Z57-U6Q2VCXfH-pPFIjJPFe4JuKp=s176-c-k-c0x00ffffff-no-rj-mo"> [t3ssel8r](https://www.youtube.com/@t3ssel8r "@t3ssel8r")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/APkrFKZdFfF7nboi3lMN0Aqhwe0ER2PGUooB774y-Nighw=s176-c-k-c0x00ffffff-no-rj-mo"> [Jump Trajectory](https://www.youtube.com/@JumpTrajectory "@JumpTrajectory")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/APkrFKb-h78PzUnt_wFRT-bHaogDGt2uM6WAkAiXW9RmKA=s176-c-k-c0x00ffffff-no-rj-mo"> [Dani](https://www.youtube.com/@Danidev "@Danidev")
