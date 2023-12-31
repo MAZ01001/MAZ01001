@@ -7,7 +7,7 @@
   - [Wishlist](https://store.steampowered.com/wishlist/id/MAZ01001/#sort=order "Steam wishlist MAZ01001") - order is roughly based on preference
   - [Owned games list](https://steamcommunity.com/id/MAZ01001/games/?tab=all "Steam MAZ01001 owned games list") - Steam requires one to be logged in to view this list
 - [Twitch](https://www.twitch.tv/maz01001 "Twitch.tv/MAZ01001") - live coding/gaming (rare)
-  - [Formatted copy of channel lists](./maz_twitch_streamer_suggestions.md "Open file: MAZ Twitch streamer suggestions")
+  - [Formatted copy of suggested streamers](./maz_twitch_streamer_suggestions.md "Open file: MAZ Twitch streamer suggestions")
 - [Itch.io](https://maz01001.itch.io/ "MAZ01001.itch.io") - indie games and games I made or contributed
 
 ## GitHub Stats
