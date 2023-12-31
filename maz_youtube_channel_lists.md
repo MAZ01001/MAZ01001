@@ -1,6 +1,6 @@
 # MAZ YouTube channel lists
 
-Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") on 2023-12-26
+Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") on 2023-12-26.
 
 | Count | Channel list (click to scroll to the list)                                                                   |
 | -----:| ------------------------------------------------------------------------------------------------------------ |
@@ -367,7 +367,7 @@ Scroll [UP](#game-dev "Scroll to start of section: game dev")
 
 ## Code to get channel lists
 
-<details closed><summary>Click to view code</summary>
+<details><summary>Click to view code</summary>
 
 ~~Open a channels-page like <https://www.youtube.com/@MAZ01001/channels?view=49&flow=grid&shelf_id=3> and load the entire page by scrolling all the way down.~~
 
@@ -393,7 +393,7 @@ Then, open developer-console [F12] and copy-paste the following code:
 })();
 ```
 
-It copies (or prints out) the entire list formatted as markdown, including title and amount of channels (exactly like the lists here)
+It copies (or prints out) the entire list formatted as markdown, including the title and the amount of channels (exactly like the lists here).
 
 </details>
 
