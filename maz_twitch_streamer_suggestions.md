@@ -2,8 +2,6 @@
 
 As seen on [my Twitch profile page](https://www.twitch.tv/maz01001 "MAZ01001") (order is roughly based on preference).
 
-_click on my name or profile picture (home tab on mobile) to see the list._
-
 Updated 2023-12-31.
 
 ## Suggested Streamers
