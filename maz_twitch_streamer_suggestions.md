@@ -81,10 +81,10 @@ You can create your personal streamer suggestion list in your Twitch dashboard:
 
 <details><summary>Click to view code</summary>
 
-Navigate to Suggested Channels page as seen [above](#create-your-own-list "Scroll up to section Create your own list")
+Navigate to Suggested Channels page as seen [above](#create-your-own-list "Scroll up to section: Create your own list")
 and make sure the entire list is loaded by scrolling all the way down.
 
-Then, open developer-consople [F12] and copy-paste the following code:
+Then, open developer-console [F12] and copy-paste the following code:
 
 ```javascript
 (()=>{//~ copy suggested channels list as markdown
@@ -98,7 +98,7 @@ Then, open developer-consople [F12] and copy-paste the following code:
 })();
 ```
 
-It copies (or prints out) the entire list formatted as markdown, including the amount of channels (exactly like the list here).
+It copies (or prints out) the entire list formatted as markdown, including the amount of channels (exactly like the list [above](#suggested-streamers "Scroll up to section: Suggested Streamers")).
 
 </details>
 
