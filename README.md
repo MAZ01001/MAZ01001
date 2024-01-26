@@ -13,10 +13,11 @@
 
 ## GitHub Stats
 
-<details closed><summary>Click to show some commit and language stats</summary>
+<details><summary>Click to show some commit and language stats</summary>
 
 >
-> [!NOTE]\
+> [!NOTE]
+>
 > JavaScript and CSS within HTML files count towards HTML, \
 > also there's a lot of Shaderlab and HLSL I haven't written myself (from Unity projects).
 >
