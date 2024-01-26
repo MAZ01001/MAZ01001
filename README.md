@@ -9,6 +9,7 @@
 - [Twitch](https://www.twitch.tv/maz01001 "Twitch.tv/MAZ01001") - live coding/gaming (rare)
   - [Formatted copy of suggested streamers](./maz_twitch_streamer_suggestions.md "Open file: MAZ Twitch streamer suggestions")
 - [Itch.io](https://maz01001.itch.io/ "MAZ01001.itch.io") - indie games and games I made or contributed
+- [Stack Overflow](https://stackoverflow.com/users/13282166/maz "User MAZ on Stack Overflow")
 
 ## GitHub Stats
 
