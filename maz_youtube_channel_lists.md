@@ -17,7 +17,9 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 
 246 total / 232 unique
 
-[_Code to get channel lists_](#code-to-get-channel-lists "Scroll down to section: Code to get channel lists")
+[Create your own list](#create-your-own-list "Scroll down to section: Create your own list") (on your YouTube channel).
+
+[_Code to get channel lists._](#code-to-get-channel-lists "Scroll down to section: Code to get channel lists")
 
 ## [Entertainer (General List)](https://www.youtube.com/@MAZ01001#:~:text=Entertainer%20(General%20List) "View list on YouTube")
 
@@ -364,6 +366,19 @@ Scroll [UP](#electronics "Scroll to start of section: electronics")
 
 Scroll [UP](#game-dev "Scroll to start of section: game dev")
     | [TOP](#maz-youtube-channel-lists "Scroll to top of document: MAZ YouTube channel lists")
+
+## Create your own list
+
+You can create your personal featured channel (or playlist) listings on your YouTube channel:
+
+- Open YouTube studio (<https://studio.youtube.com>) and log in
+  - or click on your avatar on any YouTube page (top right) and click `YouTube Studio`
+- On the sidebar click `Customization`
+- choose tab `Layout` if it's not already
+- scroll down to `Featured sections`
+- add (up to 12) sections (channels/playlist(s)/videos) via the `ADD SECTION` button
+
+Scroll [TOP](#maz-youtube-channel-lists "Scroll to top of document: MAZ YouTube channel lists")
 
 ## Code to get channel lists
 
