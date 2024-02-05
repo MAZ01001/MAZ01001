@@ -1,6 +1,6 @@
 # MAZ YouTube channel lists
 
-Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") on 2024-02-02.
+Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") on 2024-02-05.
 
 | Count | Channel list (click to scroll to the list)                                                                   |
 | -----:| ------------------------------------------------------------------------------------------------------------ |
@@ -11,11 +11,11 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 |     8 | [Backrooms / SCP](#backrooms--scp "Scroll down to section: Backrooms / SCP")                                 |
 |    26 | [science](#science "Scroll down to section: science")                                                        |
 |    22 | [technology](#technology "Scroll down to section: technology")                                               |
-|    11 | [Maths](#maths "Scroll down to section: Maths")                                                              |
+|    12 | [Maths](#maths "Scroll down to section: Maths")                                                              |
 |     9 | [electronics](#electronics "Scroll down to section: electronics")                                            |
 |    35 | [game dev](#game-dev "Scroll down to section: game dev")                                                     |
 
-248 total / 234 unique
+249 total / 235 unique
 
 [Create your own list](#create-your-own-list "Scroll down to section: Create your own list") (on your YouTube channel).
 
@@ -286,11 +286,12 @@ Scroll [UP](#technology "Scroll to start of section: technology")
 
 ## [Maths](https://www.youtube.com/@MAZ01001#:~:text=Maths "View list on YouTube")
 
-<details open><summary>Click to hide 11 channels</summary>
+<details open><summary>Click to hide 12 channels</summary>
 
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZS91xlaNAyfG1li4F7XkJkS8LoHVCkj4PlLiMEXsA=s176-c-k-c0x00ffffff-no-rj-mo"> [Mathologer](https://www.youtube.com/@Mathologer "@Mathologer")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZSApZdSBilmxjGARJbX1WdIFYXFv69aixy9FcJraA=s176-c-k-c0x00ffffff-no-rj-mo"> [3Blue1Brown](https://www.youtube.com/@3blue1brown "@3blue1brown")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZS8sfEC4bCiejYLMWIe2LDD3okE6LGFAtYlCGwvrQ=s176-c-k-c0x00ffffff-no-rj-mo"> [Stand-up Maths](https://www.youtube.com/@standupmaths "@standupmaths")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/aWw3bleDLc0Wxgf7P6KGh-rUmBqGET3XUhfxmyXnKRHB0g08CLlLCiPxv2unV8R35Ig_M-Ps_A=s176-c-k-c0x00ffffff-no-rj-mo"> [Another Roof](https://www.youtube.com/@AnotherRoof "@AnotherRoof")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZSxfvijyUgUuD_9dnFkdi7weEELlN9FSr4F4WhQHg=s176-c-k-c0x00ffffff-no-rj-mo"> [Numberphile](https://www.youtube.com/@numberphile "@numberphile")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZSmMPZOWh6KV-W6JA9T4IfNXZcGQku8-BHGSwmv0w=s176-c-k-c0x00ffffff-no-rj-mo"> [The Organic Chemistry Tutor](https://www.youtube.com/@TheOrganicChemistryTutor "@TheOrganicChemistryTutor")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZSVXVl24XoRFd_HNRhGs9xhUxWJOPtqhuFu4sPXnw=s176-c-k-c0x00ffffff-no-rj-mo"> [Virtually Passed](https://www.youtube.com/@virtually_passed "@virtually_passed")
