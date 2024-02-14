@@ -1,6 +1,6 @@
 # MAZ YouTube channel lists
 
-Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") on 2024-02-05.
+Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") on 2024-02-14.
 
 | Count | Channel list (click to scroll to the list)                                                                   |
 | -----:| ------------------------------------------------------------------------------------------------------------ |
@@ -10,12 +10,12 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 |    33 | [documentaries](#documentaries "Scroll down to section: documentaries")                                      |
 |     8 | [Backrooms / SCP](#backrooms--scp "Scroll down to section: Backrooms / SCP")                                 |
 |    26 | [science](#science "Scroll down to section: science")                                                        |
-|    22 | [technology](#technology "Scroll down to section: technology")                                               |
+|    23 | [technology](#technology "Scroll down to section: technology")                                               |
 |    12 | [Maths](#maths "Scroll down to section: Maths")                                                              |
 |     9 | [electronics](#electronics "Scroll down to section: electronics")                                            |
 |    35 | [game dev](#game-dev "Scroll down to section: game dev")                                                     |
 
-249 total / 235 unique
+250 total / 236 unique
 
 [Create your own list](#create-your-own-list "Scroll down to section: Create your own list") (on your YouTube channel).
 
@@ -254,7 +254,7 @@ Scroll [UP](#science "Scroll to start of section: science")
 
 ## [technology](https://www.youtube.com/@MAZ01001#:~:text=technology "View list on YouTube")
 
-<details open><summary>Click to hide 22 channels</summary>
+<details open><summary>Click to hide 23 channels</summary>
 
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZRxxv-lMXnpfUTvYu-h8B4PNRq2rET1mX29v7uMIg=s176-c-k-c0x00ffffff-no-rj-mo"> [CS50](https://www.youtube.com/@cs50 "@cs50")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZQuwMrrCRZxt6IdTDsxFFhCBWWk8LiglEKCWYZ12A=s176-c-k-c0x00ffffff-no-rj-mo"> [The 8-Bit Guy](https://www.youtube.com/@The8BitGuy "@The8BitGuy")
@@ -266,6 +266,7 @@ Scroll [UP](#science "Scroll to start of section: science")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/n5SlI5Ps1SWnuI58faTPSb2HvFKO9nZJ34ztRxRa8V-gl5KyP97oI1A5YnlkRGD_BTUThREfJw=s176-c-k-c0x00ffffff-no-rj-mo"> [CodeAesthetic](https://www.youtube.com/@CodeAesthetic "@CodeAesthetic")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZTT2N8CajI5KidJRWVAWvh7KtwXtV-UNb1GuCI63w=s176-c-k-c0x00ffffff-no-rj-mo"> [Computerphile](https://www.youtube.com/@Computerphile "@Computerphile")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/vIICwaNg76kXa-SZVfw2d-wuXWX6-yKLVEh0EZZ_apGZ634M8sUoURAhyZjTHIyhBqXi0N3Cyg=s176-c-k-c0x00ffffff-no-rj-mo"> [PwnFunction](https://www.youtube.com/@PwnFunction "@PwnFunction")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZSIrsG0YS9LUpIubEkgblfM6MJYdqIXawlOAEXjIA=s176-c-k-c0x00ffffff-no-rj-mo"> [Displaced Gamers](https://www.youtube.com/@DisplacedGamers "@DisplacedGamers")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZSLNswM-bdNRU2BbKesrse4rkw7eMqgiY0O5j1XoA=s176-c-k-c0x00ffffff-no-rj-mo"> [LGR](https://www.youtube.com/@LGR "@LGR")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZRz15ySrkM45yLqFzSfBT0-qx4KsLEsHrQMmn57=s176-c-k-c0x00ffffff-no-rj-mo"> [Technology Connections](https://www.youtube.com/@TechnologyConnections "@TechnologyConnections")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZTorxDMNZpvsgmvLeNXGSwTGChc-h5lGHSFjJ96=s176-c-k-c0x00ffffff-no-rj-mo"> [Captain Disillusion](https://www.youtube.com/@CaptainDisillusion "@CaptainDisillusion")
