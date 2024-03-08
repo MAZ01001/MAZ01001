@@ -80,8 +80,6 @@ You can create your personal streamer suggestion list in your Twitch dashboard:
 
 ## Code to get channel list
 
-<details><summary>Click to view code</summary>
-
 Navigate to Suggested Channels page as seen [above](#create-your-own-list "Scroll up to section: Create your own list")
 and make sure the entire list is loaded by scrolling all the way down.
 
@@ -101,6 +99,10 @@ Then, open developer-console [F12] and copy-paste the following code:
 
 It copies (or prints out) the entire list formatted as markdown, including the amount of channels (exactly like the list [above](#suggested-streamers "Scroll up to section: Suggested Streamers")).
 
-</details>
+__Alternatively__, you can, instead of pasting above code into the dev-console, create a new __bookmark__ named something like `Twitch featured channels to markdown` with the following text as the URL and click on it whenever you need to copy the list (without opening dev-console).
+
+```javascript
+javascript:(list=>list.length===0?alert("No featured channels found"):navigator.clipboard.writeText(`## Suggested Streamers\n\n<details open><summary>Click to hide ${list.length} channels</summary>\n\n${list.join("\n")}\n\n</details>`).then(()=>alert(`Markdown list with ${list.length} channels copied`)).catch(reason=>alert("Couldn't copy markdown, reason: %O",reason)))(Array.prototype.map.call(document.querySelectorAll("div.autohost-list-edit ul>div.autohost-list-item"),item=>(streamer=>`- <img alt="Channel icon" title="Channel icon" height="32" src="${item.querySelector("img").src}"> [${streamer}](https://twitch.tv/${streamer.toLowerCase()} "Twitch - ${streamer}")`)(item.querySelector("span").textContent)));
+```
 
 Scroll [TOP](#maz-twitch-streamer-suggestions "Scroll to top of document: MAZ Twitch streamer suggestions")
