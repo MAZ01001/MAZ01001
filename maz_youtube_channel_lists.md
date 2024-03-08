@@ -388,8 +388,6 @@ Scroll [TOP](#maz-youtube-channel-lists "Scroll to top of document: MAZ YouTube 
 
 ## Code to get channel lists
 
-<details><summary>Click to view code</summary>
-
 ~~Open a channels-page like <https://www.youtube.com/@MAZ01001/channels?view=49&flow=grid&shelf_id=3> and load the entire page by scrolling all the way down.~~
 
 YouTube removed featured-channels pages, so now, you click on the title / "View all" on the channel list panel (e.g., <https://www.youtube.com/@MAZ01001#:~:text=Entertainer%20(General%20List)>)
@@ -416,6 +414,10 @@ Then, open developer-console [F12] and copy-paste the following code:
 
 It copies (or prints out) the entire list formatted as markdown, including the title and the amount of channels (exactly like the lists here).
 
-</details>
+__Alternatively__, you can, instead of pasting above code into the dev-console, create a new __bookmark__ named something like `YT featured channels to markdown` with the following text as the URL and click on it whenever you need to copy the list (without opening dev-console).
+
+```javascript
+javascript:(base=>base==null?alert("Couldn't find channel panel"):((list,title)=>navigator.clipboard.writeText(`## [${title.replace(/([\\[\]])/g,"\\$1")}](${location.protocol}//${location.host+location.pathname.replace("/featured","")}#:~:text=${encodeURIComponent(title)} "View list on YouTube")\n\n<details open><summary>Click to hide ${list.length} channels</summary>\n\n${list.join("\n")}\n\n</details>`).then(()=>alert(`Markdown list ${title} with ${list.length} channels copied`)).catch(reason=>alert("Couldn't copy markdown, reason: %O",reason)))(Array.prototype.map.call(base.querySelectorAll("div#content>ytd-section-list-renderer ytd-grid-renderer div#items>ytd-grid-channel-renderer"),channel=>(link=>`- <img alt="Channel icon" title="Channel icon" height="32" src="${channel.querySelector("img#img").src}"> [${channel.querySelector("span#title").textContent.replace(/([\\[\]])/g,"\\$1")}](${link} "${link.substring(24).replace(/([\\"])/g,"\\$1")}")`)(channel.querySelector("a#channel-info").href)),base.querySelector("ytd-engagement-panel-title-header-renderer #title>yt-formatted-string#title-text").textContent))(Array.prototype.filter.call(document.querySelectorAll("ytd-app ytd-popup-container>tp-yt-paper-dialog:has(ytd-engagement-panel-section-list-renderer)"),panel=>panel.checkVisibility())[0]);
+```
 
 Scroll [TOP](#maz-youtube-channel-lists "Scroll to top of document: MAZ YouTube channel lists")
