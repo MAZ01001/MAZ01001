@@ -1,6 +1,6 @@
 # MAZ YouTube channel lists
 
-Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") on 2024-02-16.
+Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") on 2024-03-08.
 
 | Count | Channel list (click to scroll to the list)                                                                   |
 | -----:| ------------------------------------------------------------------------------------------------------------ |
@@ -13,9 +13,9 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 |    23 | [technology](#technology "Scroll down to section: technology")                                               |
 |    12 | [Maths](#maths "Scroll down to section: Maths")                                                              |
 |     9 | [electronics](#electronics "Scroll down to section: electronics")                                            |
-|    35 | [game dev](#game-dev "Scroll down to section: game dev")                                                     |
+|    36 | [game dev](#game-dev "Scroll down to section: game dev")                                                     |
 
-251 total / 237 unique
+252 total / 238 unique
 
 [Create your own list](#create-your-own-list "Scroll down to section: Create your own list") (on your YouTube channel).
 
@@ -329,41 +329,42 @@ Scroll [UP](#electronics "Scroll to start of section: electronics")
 
 ## [game dev](https://www.youtube.com/@MAZ01001#:~:text=game%20dev "View list on YouTube")
 
-<details open><summary>Click to hide 35 channels</summary>
+<details open><summary>Click to hide 36 channels</summary>
 
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/c5l0Jijy2jUWSSo-4PxDqVzXS4E0XGagmDdWQfPTp8ipsbVX0u9T2AX64O5fz4kKYz0FeGE0wA=s176-c-k-c0x00ffffff-no-rj-mo"> [Game Maker's Toolkit](https://www.youtube.com/@GMTK "@GMTK")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZTJnZWV7r-S4c8-OOYSXrqmBy1s5pg7JcunD9Oc0A=s176-c-k-c0x00ffffff-no-rj-mo"> [Brackeys](https://www.youtube.com/@Brackeys "@Brackeys")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_lHfqpl-x4x7w7SN76a2W7pD-V5arU52xa0O6vFDQ=s176-c-k-c0x00ffffff-no-rj-mo"> [Brackeys](https://www.youtube.com/@Brackeys "@Brackeys")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/r2h5eKhcZqWe84ySDJ5DNPnduRJYvjJwXiFba9y-7zawoH6FQKrrVLGphqpoKpNPsJYgxV5S2A=s176-c-k-c0x00ffffff-no-rj-mo"> [GDC](https://www.youtube.com/@Gdconf "@Gdconf")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/jUV5hYyKpm2GQT1OhZFkHnZWGdinhilnL0tmxGHbItyxkCN8NmjC9_8Mu4SwncIaQoyU1Slinw=s176-c-k-c0x00ffffff-no-rj-mo"> [Virtus Learning Hub](https://www.youtube.com/@VirtusEdu "@VirtusEdu")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/3lT1YIG82Bn-A5z85i-pHK109Eg0GdqusNKmqC3JrBZT86yu4cOP-TE3Lr_Xj0OZD1I2VA9LY7E=s176-c-k-c0x00ffffff-no-rj-mo"> [Let's GameDev](https://www.youtube.com/@LetsGameDev "@LetsGameDev")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZTJSCu2VJzacbgitNKKs-oVfePZUOGZtWwwnEVA1Q=s176-c-k-c0x00ffffff-no-rj-mo"> [Piranha Bytes](https://www.youtube.com/@PiranhaBytesOfficial "@PiranhaBytesOfficial")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_lYSmzHpz27PG9ND0C_gStFZifDrnjeWUz5EAeccg=s176-c-k-c0x00ffffff-no-rj-mo"> [Piranha Bytes](https://www.youtube.com/@PiranhaBytesOfficial "@PiranhaBytesOfficial")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/fRuGUY-F28mPwio41AQwnvnikF2Yy3oFOWoBxK9Xlpri2QhGgCUmy3XoAkJgEGeBdNLaen6SkGo=s176-c-k-c0x00ffffff-no-rj-mo"> [Freya Holmér](https://www.youtube.com/@acegikmo "@acegikmo")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/HWv8i3Lizhu2_vTT9Z98cR5EAAXP4jskLLYhSTCCvgn-6QYE_CwJ7pPqd7a-JGCfctGa7Lmvtfc=s176-c-k-c0x00ffffff-no-rj-mo"> [Mental Checkpoint](https://www.youtube.com/@MentalCheckpoint "@MentalCheckpoint")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZQFtyBI-VQQw8_-bZSOLceUQay3J9Ljs4D4mxH3=s176-c-k-c0x00ffffff-no-rj-mo"> [javidx9](https://www.youtube.com/@javidx9 "@javidx9")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZSeo9DylTOcYqDDo4KN0OnBSVBHi8N9wx3CYl9-4A=s176-c-k-c0x00ffffff-no-rj-mo"> [Sebastian Lague](https://www.youtube.com/@SebastianLague "@SebastianLague")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_msVEbVBgo0OUJU7uulLlAxGYau9mZIBR79_zCb=s176-c-k-c0x00ffffff-no-rj-mo"> [javidx9](https://www.youtube.com/@javidx9 "@javidx9")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_kBcWnxJiBdGDO6533NL2w55rFMpSsCfbS-rheqwQ=s176-c-k-c0x00ffffff-no-rj-mo"> [Sebastian Lague](https://www.youtube.com/@SebastianLague "@SebastianLague")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/34MwE-17akWE4dF5Unuglj9AZfYTXfmlKd0vUqleH8hg15ZeZ68_YNZvWZ7OYAowBsE3mNzyxA=s176-c-k-c0x00ffffff-no-rj-mo"> [Jonas Tyroller](https://www.youtube.com/@JonasTyroller "@JonasTyroller")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZT2ebigfC5woGTopZYSBq2-7gkzw0moXz7-9nBS5Q=s176-c-k-c0x00ffffff-no-rj-mo"> [Codeer](https://www.youtube.com/@Codeer "@Codeer")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZTM3nmSWrErG-H4Mg4rdTldxNpfYle2mjMZxdHp=s176-c-k-c0x00ffffff-no-rj-mo"> [iHeartGameDev](https://www.youtube.com/@iHeartGameDev "@iHeartGameDev")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZQuv4l9Fqn5mF4L1aUgewuJjjanLGPibuoMYyKc=s176-c-k-c0x00ffffff-no-rj-mo"> [Code Monkey](https://www.youtube.com/@CodeMonkeyUnity "@CodeMonkeyUnity")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZQOyHN2HNl-TO-o4VopDULJ8dO1NP_H1d_ouqLvmQ=s176-c-k-c0x00ffffff-no-rj-mo"> [Steven](https://www.youtube.com/@Stevenstuff "@Stevenstuff")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZRr-sBg8afoIjM6jVp0_vcm1owzluVMvqnm6RAp=s176-c-k-c0x00ffffff-no-rj-mo"> [John Lin](https://www.youtube.com/@johnlin9665 "@johnlin9665")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZSu2TCjSSoDWqu7ZUnujgQvjXoNk9uFVg4A-joaVw=s176-c-k-c0x00ffffff-no-rj-mo"> [Mythic Legion](https://www.youtube.com/@MythicLegionDev "@MythicLegionDev")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZT6Pio19rmXzNYNYp-0AXuGrbwyl402wNnEFk26qQ=s176-c-k-c0x00ffffff-no-rj-mo"> [Sam Hogan](https://www.youtube.com/@SamHogan "@SamHogan")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZTBSYZtYAFn8ZAGDLyk9eaqv328nqD07ti6B_wn=s176-c-k-c0x00ffffff-no-rj-mo"> [ThatGuyGlen](https://www.youtube.com/@ThatGuyGlen "@ThatGuyGlen")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_nYK-Q0smgSuP2C7KrvOkmSje0OMztkk95EJnT2Zw=s176-c-k-c0x00ffffff-no-rj-mo"> [Codeer](https://www.youtube.com/@Codeer "@Codeer")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_kQX6NiA3c0Fe-fVTEC_lS3F8dKEU05dJkVHzzL=s176-c-k-c0x00ffffff-no-rj-mo"> [iHeartGameDev](https://www.youtube.com/@iHeartGameDev "@iHeartGameDev")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_m4fJL26iT-zHz7G5WWALdmPBZlRVHrazfDMe5j=s176-c-k-c0x00ffffff-no-rj-mo"> [Code Monkey](https://www.youtube.com/@CodeMonkeyUnity "@CodeMonkeyUnity")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_n9bGhMB11-5-ymYV_GxTPuTlgvOtX3IYaUk6LKWg=s176-c-k-c0x00ffffff-no-rj-mo"> [Steven](https://www.youtube.com/@Stevenstuff "@Stevenstuff")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_lvpScEx7hwet4PuyPVHB7BsFvNYFe5aU6sxXQu=s176-c-k-c0x00ffffff-no-rj-mo"> [John Lin](https://www.youtube.com/@johnlin9665 "@johnlin9665")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_nWL66G2zUlMawkLQkAmZMrT9xnHxyeAbtJvXvjkw=s176-c-k-c0x00ffffff-no-rj-mo"> [Mythic Legion](https://www.youtube.com/@MythicLegionDev "@MythicLegionDev")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_lKfBxwIAztk3LBC3OlsnGZmXjqzByglsvvbPpdDQ=s176-c-k-c0x00ffffff-no-rj-mo"> [Sam Hogan](https://www.youtube.com/@SamHogan "@SamHogan")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_nBoUpmR7HIg7W8yy2W-wv6-PLCr1iwgv3eWvKz=s176-c-k-c0x00ffffff-no-rj-mo"> [ThatGuyGlen](https://www.youtube.com/@ThatGuyGlen "@ThatGuyGlen")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/cr09E5RkIUtNlNeLHgMSqnyMmz4ZcBrRF-Ql2l02mAeEUOmw-wbrTiu20molX_sJ8BfS-cM4tQ=s176-c-k-c0x00ffffff-no-rj-mo"> [Gabriel Aguiar Prod.](https://www.youtube.com/@GabrielAguiarProd "@GabrielAguiarProd")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/qjFJ3pZqy5PjMu4LzvafFQe2iUx1rbPDkYRy5JQSMDZhyqcFuuDghBcfHijDXqHCCKOo2emr-A=s176-c-k-c0x00ffffff-no-rj-mo"> [Acerola](https://www.youtube.com/@Acerola_t "@Acerola_t")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZTccxvapZ4AdZpvT7rTwWDj6NRl90u35lJSYz70EA=s176-c-k-c0x00ffffff-no-rj-mo"> [Daniel Ilett](https://www.youtube.com/@danielilett "@danielilett")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZTgM17PveBAme20udnu7d8GRnIHonESseuFcQtDhQ=s176-c-k-c0x00ffffff-no-rj-mo"> [Suboptimal Engineer](https://www.youtube.com/@SuboptimalEng "@SuboptimalEng")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZQ5Pb1T0X0P-xrehWwymhM5w5HYr4XXzGXdk3-sow=s176-c-k-c0x00ffffff-no-rj-mo"> [thebennybox](https://www.youtube.com/@thebennybox "@thebennybox")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZTA_8lCTqGeZmCtqZrEyIR0-O1JtHozJqlfLuew=s176-c-k-c0x00ffffff-no-rj-mo"> [Travis Vroman](https://www.youtube.com/@TravisVroman "@TravisVroman")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZQh5TIBF7z0uGVHiPPcU3U1NQoDUQ5_p-1nla9t=s176-c-k-c0x00ffffff-no-rj-mo"> [SimonDev](https://www.youtube.com/@simondev758 "@simondev758")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZRXwpwwotHgLp1g3z4o0zcwZnDwipTna8EU0KMP=s176-c-k-c0x00ffffff-no-rj-mo"> [The Art of Code](https://www.youtube.com/@TheArtofCodeIsCool "@TheArtofCodeIsCool")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZTgonpqvirGHQ5joSfxra8_5TVq5En1Qvk3ir6xFA=s176-c-k-c0x00ffffff-no-rj-mo"> [Retro Game Mechanics Explained](https://www.youtube.com/@RGMechEx "@RGMechEx")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZQSSGH5SJXjyAOC4jfGgNFYwWWp1XMmmIxQJhLB=s176-c-k-c0x00ffffff-no-rj-mo"> [NesHacker](https://www.youtube.com/@NesHacker "@NesHacker")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZQ6-Vxw3I1iLnNpgVJRJskuT0kRQV8gl_4jqqtm=s176-c-k-c0x00ffffff-no-rj-mo"> [t3ssel8r](https://www.youtube.com/@t3ssel8r "@t3ssel8r")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZT5PKsn6Bmc5mItxTt7Y8kdJeWfRfIVJu1xYY857A=s176-c-k-c0x00ffffff-no-rj-mo"> [Jump Trajectory](https://www.youtube.com/@JumpTrajectory "@JumpTrajectory")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZSIxhzGAGw1ta_j2v1hP4QmqOZk250D1gF6X9U5pw=s176-c-k-c0x00ffffff-no-rj-mo"> [Dani](https://www.youtube.com/@Danidev "@Danidev")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIf8zZQXrB3yuZokf1wYoVu4TNfDWgPYr06RY071Gz15=s176-c-k-c0x00ffffff-no-rj-mo"> [Patch Quest](https://www.youtube.com/@PatchQuest "@PatchQuest")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_mGnzcas3uNULzYaj3NZhqHEDx7eIfrOE5Aq_3_cg=s176-c-k-c0x00ffffff-no-rj-mo"> [Daniel Ilett](https://www.youtube.com/@danielilett "@danielilett")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_kDKg098lLMMjn6pthZO5tmibesSaKdLDWDAPWA5Q=s176-c-k-c0x00ffffff-no-rj-mo"> [Suboptimal Engineer](https://www.youtube.com/@SuboptimalEng "@SuboptimalEng")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_kDuRCNg7fZvlhMe85iNozFeY0eVrw86JDkX4MsPw=s176-c-k-c0x00ffffff-no-rj-mo"> [thebennybox](https://www.youtube.com/@thebennybox "@thebennybox")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_mLK9vqDpmmDeiFj83W9TJrlDnidWH7XC4PYmMz=s176-c-k-c0x00ffffff-no-rj-mo"> [Travis Vroman](https://www.youtube.com/@TravisVroman "@TravisVroman")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_mM11omzhxwXIDI24rxNL3jNwxDrJE_O23f83XC=s176-c-k-c0x00ffffff-no-rj-mo"> [SimonDev](https://www.youtube.com/@simondev758 "@simondev758")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_mWWnBJgfzdC7udF5y3Pklm00kto0imtnNhhfh9=s176-c-k-c0x00ffffff-no-rj-mo"> [The Art of Code](https://www.youtube.com/@TheArtofCodeIsCool "@TheArtofCodeIsCool")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_miv8T99HHRe6-K00Zpn4-SrEhGi4mjPykNJrHOsw=s176-c-k-c0x00ffffff-no-rj-mo"> [Retro Game Mechanics Explained](https://www.youtube.com/@RGMechEx "@RGMechEx")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_mO1QGyGsN-u_FbrcK1ZizhEtj6I9TG-rzla4Tp=s176-c-k-c0x00ffffff-no-rj-mo"> [NesHacker](https://www.youtube.com/@NesHacker "@NesHacker")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_n1TpEKTVeGKcQ99Ua896w5oedOaeE4Bz8JS7jX=s176-c-k-c0x00ffffff-no-rj-mo"> [t3ssel8r](https://www.youtube.com/@t3ssel8r "@t3ssel8r")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_l0gGnSII8wmF_RoPnTxjGjU7czJZVqB6lL1ldBYA=s176-c-k-c0x00ffffff-no-rj-mo"> [Jump Trajectory](https://www.youtube.com/@JumpTrajectory "@JumpTrajectory")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_kIVI34duU03AG2UVoDr0KFSkUGa-cYtglf93Xy6A=s176-c-k-c0x00ffffff-no-rj-mo"> [Dani](https://www.youtube.com/@Danidev "@Danidev")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_k3Auu9JnVSqmvgPgA_SeHEMiukpbHd-HCUnlV_=s176-c-k-c0x00ffffff-no-rj-mo"> [Patch Quest](https://www.youtube.com/@PatchQuest "@PatchQuest")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/8XDxiohGrv-ho5rvhUaN_a2rtazs8t5iYuhEqCWmNloEVH2O-3FfpUZMC8ssPiMcqlF0nPB2oSQ=s176-c-k-c0x00ffffff-no-rj-mo"> [Pontypants](https://www.youtube.com/@Pontypants "@Pontypants")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/yHSLCoI6kIdjettPJjJGtg_wRFp98AaF7crDm6-foRDN6CvKDQ5_A3YDSurLuEupQCrIcGdx2g=s176-c-k-c0x00ffffff-no-rj-mo"> [Randy](https://www.youtube.com/@randyprime "@randyprime")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/lO4I__hDXPTt-v-3CQBli84S7EmRWpteZXU0uxESL4nppcf_fk8HanH_8i0jMRlw-17kvA57aA=s176-c-k-c0x00ffffff-no-rj-mo"> [The Good Trash](https://www.youtube.com/@TheGoodTrash "@TheGoodTrash")
 
