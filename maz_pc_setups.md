@@ -33,7 +33,7 @@ No overclocking and BeQuiet case + air cooling
 
 ## Twitch Streaming & Video Recording
 
-currently using [OBS Studio](https://obsproject.com/ "Official OBS website") version [30.0.2](https://github.com/obsproject/obs-studio/releases/tag/30.0.2 "Offical release on GitHub") (64 bit).
+currently using [OBS Studio](https://obsproject.com/ "Official OBS website") version [30.1.0](https://github.com/obsproject/obs-studio/releases/tag/30.1.0 "Offical release on GitHub") (64 bit).
 
 ### Plugins
 
@@ -46,19 +46,19 @@ Output Mode: Advanced
 
 #### Output: Streaming
 
-| Setting              | Value                                   |
-| -------------------- | --------------------------------------- |
-| Encoder              | NVIDIA NVENC H.264 ; CoreAudio AAC      |
-| Scale output         | 1664x936 (for better bitrate on Twitch) |
-| Bitrate              | CBR @ 6000Kbps                          |
-| Keyframe Interval    | 2 sec.                                  |
-| Preset               | P5 / Slow (Good Quality)                |
-| Tuning               | Low Latency                             |
-| Multipass Mode       | Single Pass                             |
-| Profile              | main                                    |
-| Look-ahead           | OFF                                     |
-| Psycho Visual Tuning | ON                                      |
-| Max B-frames         | 2                                       |
+| Setting              | Value                                             |
+| -------------------- | ------------------------------------------------- |
+| Encoder              | NVIDIA NVENC H.264 ; CoreAudio AAC                |
+| Scale output         | (Bicubic) 1664x936 (for better bitrate on Twitch) |
+| Bitrate              | CBR @ 6000Kbps                                    |
+| Keyframe Interval    | 2 sec.                                            |
+| Preset               | P5 / Slow (Good Quality)                          |
+| Tuning               | Low Latency                                       |
+| Multipass Mode       | Single Pass                                       |
+| Profile              | main                                              |
+| Look-ahead           | OFF                                               |
+| Psycho Visual Tuning | ON                                                |
+| Max B-frames         | 2                                                 |
 
 Also, see the [Twitch VOD Track Guide](https://obsproject.com/kb/twitch-vod-track-guide "OBS project: Twitch VOD Track Guide (2023-07-14)") for how to set up a separate audio track for VOD.
 
