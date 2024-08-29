@@ -106,4 +106,33 @@ __Alternatively__, you can, instead of pasting above code into the dev-console, 
 javascript:(list=>list.length===0?alert("No featured channels found"):navigator.clipboard.writeText(`## Suggested Streamers\n\n<details open><summary>Click to hide ${list.length} channels</summary>\n\n${list.join("\n")}\n\n</details>`).then(()=>alert(`Markdown list with ${list.length} channels copied`)).catch(reason=>alert("Couldn't copy markdown, reason: %O",reason)))(Array.prototype.map.call(document.querySelectorAll("div.autohost-list-edit ul>div.autohost-list-item"),item=>(streamer=>`- <img alt="Channel icon" title="Channel icon" height="32" src="${item.querySelector("img").src}"> [${streamer}](https://twitch.tv/${streamer.toLowerCase()} "Twitch - ${streamer}")`)(item.querySelector("span").textContent)));
 ```
 
+__Also__, if you want to have the channel icons available offline, use the following; a lot larger since it stores all images in base64 text (data URL):
+
+```javascript
+await(async()=>{//~ copy suggested channels list as markdown (100% offline version - async)
+    "use strict";
+    const img=Object.assign(new Image(),{loading:"eager",crossOrigin:"anonymous"}),
+        cnv=document.createElement("canvas"),
+        cnx=cnv.getContext("2d"),
+        loadIMG=async src=>{
+            "use strict";
+            const p=new Promise(L=>img.onload=L);
+            img.src=src;
+            await p;
+            cnv.width=img.naturalWidth;
+            cnv.height=img.naturalHeight;
+            cnx.drawImage(img,0,0);
+            return cnv.toDataURL();
+        },
+        list=[...document.querySelectorAll("div.autohost-list-edit ul>div.autohost-list-item")];
+    for(let i=0;i<list.length;++i){
+        const item=list[i],
+            streamer=item.querySelector("span").textContent;
+        list[i]=`- <img alt="Channel icon" title="Channel icon" height="32" src="${await loadIMG(item.querySelector("img").src)}"> [${streamer}](https://twitch.tv/${streamer.toLowerCase()} "Twitch - ${streamer}")`
+    }
+    console.log("Found %i channels",list.length);
+    return(markdown=>window.copy?(window.copy(markdown),"markdown copied"):markdown)(`## Suggested Streamers\n\n<details open><summary>Click to hide ${list.length} channels</summary>\n\n${list.join("\n")}\n\n</details>`);
+})();
+```
+
 Scroll [TOP](#maz-twitch-streamer-suggestions "Scroll to top of document: MAZ Twitch streamer suggestions")
