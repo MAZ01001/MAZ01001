@@ -427,4 +427,39 @@ __Alternatively__, you can, instead of pasting the above code into the dev-conso
 javascript:(base=>base==null?alert("Couldn't find channel panel"):((list,title)=>navigator.clipboard.writeText(`## [${title.replace(/([\\[\]])/g,"\\$1")}](${location.protocol}//${location.host+location.pathname.replace("/featured","")}#:~:text=${encodeURIComponent(title)} "View list on YouTube")\n\n<details open><summary>Click to hide ${list.length} channels</summary>\n\n${list.join("\n")}\n\n</details>`).then(()=>alert(`Markdown list ${title} with ${list.length} channels copied`)).catch(reason=>alert("Couldn't copy markdown, reason: %O",reason)))(Array.prototype.map.call(base.querySelectorAll("div#content>ytd-section-list-renderer ytd-grid-renderer div#items>ytd-grid-channel-renderer"),channel=>(link=>`- <img alt="Channel icon" title="Channel icon" height="32" src="${channel.querySelector("img#img").src}"> [${channel.querySelector("span#title").textContent.replace(/([\\[\]])/g,"\\$1")}](${link} "${link.substring(24).replace(/([\\"])/g,"\\$1")}")`)(channel.querySelector("a#channel-info").href)),base.querySelector("ytd-engagement-panel-title-header-renderer #title>yt-formatted-string#title-text").textContent))(Array.prototype.filter.call(document.querySelectorAll("ytd-app ytd-popup-container>tp-yt-paper-dialog:has(ytd-engagement-panel-section-list-renderer)"),panel=>panel.checkVisibility())[0]);
 ```
 
+__Also__, if you want to have the channel icons available offline, use the following; a lot larger since it stores all images in base64 text (data URL):
+
+```javascript
+await(async()=>{//~ copy featured channels panel list as markdown (100% offline version - async)
+    "use strict";
+    const base=Array.prototype.filter.call(
+        document.querySelectorAll("ytd-app ytd-popup-container>tp-yt-paper-dialog:has(ytd-engagement-panel-section-list-renderer)"),
+        panel=>panel.checkVisibility()
+    )[0];
+    if(base==null)return"couldn't find channel panel";
+    const img=Object.assign(new Image(),{loading:"eager",crossOrigin:"anonymous"}),
+        cnv=document.createElement("canvas"),
+        cnx=cnv.getContext("2d"),
+        loadIMG=async src=>{
+            "use strict";
+            const p=new Promise(L=>img.onload=L);
+            img.src=src;
+            await p;
+            cnv.width=img.naturalWidth;
+            cnv.height=img.naturalHeight;
+            cnx.drawImage(img,0,0);
+            return cnv.toDataURL();
+        },
+        list=[...base.querySelectorAll("div#content>ytd-section-list-renderer ytd-grid-renderer div#items>ytd-grid-channel-renderer")],
+        title=base.querySelector("ytd-engagement-panel-title-header-renderer #title>yt-formatted-string#title-text").textContent;
+    for(let i=0;i<list.length;++i){
+        const channel=list[i],
+            link=channel.querySelector("a#channel-info").href;
+        list[i]=`- <img alt="Channel icon" title="Channel icon" height="32" src="${await loadIMG(channel.querySelector("img#img").src)}"> [${channel.querySelector("span#title").textContent.replace(/([\\[\]])/g,"\\$1")}](${link} "${link.substring(24).replace(/([\\"])/g,"\\$1")}")`;
+    }
+    console.log("found %i channels in list: %s",list.length,title);
+    return(markdown=>window.copy?(window.copy(markdown),"markdown copied"):markdown)(`## [${title.replace(/([\\[\]])/g,"\\$1")}](${location.protocol}//${location.host+location.pathname.replace("/featured","")}#:~:text=${encodeURIComponent(title)} "View list on YouTube")\n\n<details open><summary>Click to hide ${list.length} channels</summary>\n\n${list.join("\n")}\n\n</details>`);
+})();
+```
+
 Scroll [TOP](#maz-youtube-channel-lists "Scroll to top of document: MAZ YouTube channel lists")
