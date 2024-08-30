@@ -4,7 +4,7 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 
 | Count | Channel list (click to scroll to the list)                                                                        |
 | -----:| ----------------------------------------------------------------------------------------------------------------- |
-|    46 | [→ Entertainer (General List)](#-entertainer-general-list "Scroll down to section: → Entertainer (General List)") |
+|    47 | [→ Entertainer (General List)](#-entertainer-general-list "Scroll down to section: → Entertainer (General List)") |
 |    36 | [→ Animations](#-animations "Scroll down to section: → Animations")                                               |
 |    23 | [→ Mechanics](#-mechanics "Scroll down to section: → Mechanics")                                                  |
 |    34 | [→ Documentaries](#-documentaries "Scroll down to section: → Documentaries")                                      |
@@ -15,7 +15,7 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 |     9 | [→ Electronics](#-electronics "Scroll down to section: → Electronics")                                            |
 |    38 | [→ Game dev](#-game-dev "Scroll down to section: → Game dev")                                                     |
 
-257 Total / 242 Unique
+258 Total / 243 Unique
 
 [Create your own list](#create-your-own-list "Scroll down to section: Create your own list") (on your YouTube channel).
 
@@ -23,7 +23,7 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 
 ## [→ Entertainer (General List)](https://www.youtube.com/@MAZ01001#:~:text=%E2%86%92%20Entertainer%20(General%20List) "View list on YouTube")
 
-<details open><summary>Click to hide 46 channels</summary>
+<details open><summary>Click to hide 47 channels</summary>
 
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_kWaf09a_L_gCrR0Ty5hrWQNNnGBCG8W8qJTjBtYSL0bic=s176-c-k-c0x00ffffff-no-rj-mo"> [Markiplier](https://www.youtube.com/@markiplier "@markiplier")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_ko2x8r12BwkrHwYRNEVLUwCkd1MsWA496y7Pr8wX-3c6Y=s176-c-k-c0x00ffffff-no-rj-mo"> [Gronkh](https://www.youtube.com/@gronkh "@gronkh")
@@ -52,6 +52,7 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_nenUrGjDKt9CONHX-RAJoULoOAEL0QWTiXSVcvMk9MRMw=s176-c-k-c0x00ffffff-no-rj-mo"> [The Living Tombstone](https://www.youtube.com/@TheLivingTombstone "@TheLivingTombstone")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/pTA95E5BpQP7x5Q3e2DlyFLXX0laorEkuQC5atUBp59gZDazGG0rwVc0W7ZYvPfzIYnrWDDr=s176-c-k-c0x00ffffff-no-rj-mo"> [AstralSpiff](https://www.youtube.com/@AstralSpiff "@AstralSpiff")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/b6R2ndbftZgvG7vGeLRGJZh8MlAehq20mbhGwxXNiff83r_7gv3n6eD3_KdvbylkT8hCrJWQsrI=s176-c-k-c0x00ffffff-no-rj-mo"> [Insym](https://www.youtube.com/@Insym "@Insym")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_nbosIRGStmC9kFxdwS-auhkFCQbPX6yOKo_C-_oVKDdR4=s176-c-k-c0x00ffffff-no-rj-mo"> [IngameAsylum](https://www.youtube.com/@IngameAsylum "@IngameAsylum")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_kltmVPbr5yKSJ8YaCv8ouXktPx-11IkO5dcmqN-dFmug=s176-c-k-c0x00ffffff-no-rj-mo"> [Primitive Technology](https://www.youtube.com/@primitivetechnology9550 "@primitivetechnology9550")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/0YSMoQpP_r4V6u1t8U2sRZOGQBnDS6gkBUE7kbpW5m-uFR7VWuvcOKKDqBJBmOvvmH-Wq08g=s176-c-k-c0x00ffffff-no-rj-mo"> [Wintergatan](https://www.youtube.com/@Wintergatan "@Wintergatan")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/qR-4gEbPO0XQlSEwHNgNt7EG5dB_sjQ5WVExWhT11D9ItY3G24l8Egw7isWZhcsUGYcfjaT4tg=s176-c-k-c0x00ffffff-no-rj-mo"> [PietSmiet](https://www.youtube.com/@pietsmiet "@pietsmiet")
