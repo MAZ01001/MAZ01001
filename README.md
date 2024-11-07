@@ -6,13 +6,12 @@
 - [Steam](http://steamcommunity.com/id/MAZ01001 "Steam/MAZ01001") - public games- and wishlist
   - [Wishlist](https://store.steampowered.com/wishlist/id/MAZ01001/#sort=order "Steam wishlist MAZ01001") - order is roughly based on preference
   - [Owned games list](https://steamcommunity.com/id/MAZ01001/games/?tab=all "Steam MAZ01001 owned games list") - Steam requires one to be logged in to view this list
+    - [SteamDB games list](https://steamdb.info/calculator/76561198144428581/?all_games#games "steamdb.info MAZ01001 owned games list") - not 100% accurate but does not require login to view
 - [Twitch](https://www.twitch.tv/maz01001 "Twitch.tv/MAZ01001") - live coding/gaming (rare)
   - [Formatted copy of suggested streamers](./maz_twitch_streamer_suggestions.md "Open file: MAZ Twitch streamer suggestions")
   - [My PC specs and OBS settings](./maz_pc_setups.md "Open file: MAZ PC setups")
 - [Itch.io](https://maz01001.itch.io/ "MAZ01001.itch.io") - indie games and games I made or contributed
 - [Stack Overflow](https://stackoverflow.com/users/13282166/maz "User MAZ on Stack Overflow")
-
-## GitHub Stats
 
 <details><summary>Click to show some commit and language stats</summary>
 
