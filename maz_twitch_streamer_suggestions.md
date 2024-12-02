@@ -2,11 +2,11 @@
 
 As seen on [my Twitch profile page](https://www.twitch.tv/maz01001 "MAZ01001") (order is roughly based on preference).
 
-Updated 2024-03-27.
+Updated 2024-12-02.
 
 ## Suggested Streamers
 
-<details open><summary>Click to hide 55 channels</summary>
+<details open><summary>Click to hide 56 channels</summary>
 
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/gronkh-profile_image-76b34139eaa46bb5-300x300.png"> [GRONKH](https://twitch.tv/gronkh "Twitch - GRONKH")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/bf214236-be86-43d7-b81b-b90d34189587-profile_image-300x300.png"> [wayneradiotv](https://twitch.tv/wayneradiotv "Twitch - wayneradiotv")
@@ -19,13 +19,14 @@ Updated 2024-03-27.
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/96b5f782-3db1-4d8e-abda-2fbf9489c14a-profile_image-300x300.png"> [blklght](https://twitch.tv/blklght "Twitch - blklght")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/9702815d-08e2-4fb2-9c4b-3e9a0d34e646-profile_image-300x300.png"> [DJBrisk](https://twitch.tv/djbrisk "Twitch - DJBrisk")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/84fb2102ab2e1e07-profile_image-300x300.png"> [SceneOfAction](https://twitch.tv/sceneofaction "Twitch - SceneOfAction")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/2af48a59-1b95-41ef-ab56-a0b70bfd5636-profile_image-300x300.png"> [Insym](https://twitch.tv/insym "Twitch - Insym")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/96272bdd-6bef-44e0-8227-e2d58648fd87-profile_image-300x300.png"> [Cirno_TV](https://twitch.tv/cirno_tv "Twitch - Cirno_TV")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/8d5be169-311e-4038-80ca-e52a893fa878-profile_image-300x300.png"> [SR_Kaif](https://twitch.tv/sr_kaif "Twitch - SR_Kaif")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/markiplier-profile_image-b35002cc6d4c2daa-300x300.png"> [Markiplier](https://twitch.tv/markiplier "Twitch - Markiplier")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/a5c1a4d5ce734700-profile_image-300x300.png"> [JonathanOng](https://twitch.tv/jonathanong "Twitch - JonathanOng")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/8d5be169-311e-4038-80ca-e52a893fa878-profile_image-300x300.png"> [SR_Kaif](https://twitch.tv/sr_kaif "Twitch - SR_Kaif")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/0477cf96-8162-42ab-9e90-2d117d1e9464-profile_image-300x300.png"> [ZIGGYXdj](https://twitch.tv/ziggyxdj "Twitch - ZIGGYXdj")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/4aecfd2a-dc86-4a9f-8323-2aab3463536c-profile_image-300x300.png"> [ExcessiveProfanity](https://twitch.tv/excessiveprofanity "Twitch - ExcessiveProfanity")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/royalphunk-profile_image-e0387b24f32b5cfe-300x300.jpeg"> [RoyalPhunk](https://twitch.tv/royalphunk "Twitch - RoyalPhunk")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/fa63cae9-770d-4ce6-9018-1c6bd1fe1b69-profile_image-300x300.png"> [PhunkRoyal](https://twitch.tv/phunkroyal "Twitch - PhunkRoyal")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/b3fc1f16-0818-4121-8711-c31b9469bc21-profile_image-300x300.png"> [GamesDoneQuick](https://twitch.tv/gamesdonequick "Twitch - GamesDoneQuick")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/barnacules-profile_image-6c04902761361e1e-300x300.jpeg"> [Barnacules](https://twitch.tv/barnacules "Twitch - Barnacules")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/b99fed3d-29e1-4a7e-8113-52d99b326a40-profile_image-300x300.png"> [TechTangents](https://twitch.tv/techtangents "Twitch - TechTangents")
@@ -34,10 +35,10 @@ Updated 2024-03-27.
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/38e925fc-0b07-4e1e-82e2-6639e01344f3-profile_image-300x300.png"> [LIRIK](https://twitch.tv/lirik "Twitch - LIRIK")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/kilg0re_tr0ut-profile_image-c7626d3c48d641aa-300x300.jpeg"> [Kilg0re_Tr0ut](https://twitch.tv/kilg0re_tr0ut "Twitch - Kilg0re_Tr0ut")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/datpags-profile_image-684ba086936cf3e6-300x300.jpeg"> [DatPags](https://twitch.tv/datpags "Twitch - DatPags")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/9804fd5a-2981-41f2-baa2-9d854486cf61-profile_image-300x300.png"> [Matrixis](https://twitch.tv/matrixis "Twitch - Matrixis")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/7667b26d-c356-41fa-87cd-de70cca7c3cb-profile_image-300x300.png"> [Matrixis](https://twitch.tv/matrixis "Twitch - Matrixis")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/9b952155-bdc1-44d2-b948-202034be2c08-profile_image-300x300.png"> [ilmango](https://twitch.tv/ilmango "Twitch - ilmango")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/630e825b-12b1-4bbc-af14-496b8df2d4aa-profile_image-300x300.png"> [iBlali](https://twitch.tv/iblali "Twitch - iBlali")
-- <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/d75f4476-7c5f-4aac-adab-f7ac73cde1d9-profile_image-300x300.png"> [Bajo](https://twitch.tv/bajo "Twitch - Bajo")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/5da7e1d9-585a-4f49-9aa2-48ef7f64508f-profile_image-300x300.png"> [iBlali](https://twitch.tv/iblali "Twitch - iBlali")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/3ce5ba97-549c-41d5-9039-6dc61685611b-profile_image-300x300.png"> [Bajo](https://twitch.tv/bajo "Twitch - Bajo")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/1c4f4d86-ee38-4247-9a93-30dd4b9e039a-profile_image-300x300.png"> [EliminateHQ](https://twitch.tv/eliminatehq "Twitch - EliminateHQ")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/thekller-profile_image-7e743585b8ffbb39-300x300.jpeg"> [TheKller](https://twitch.tv/thekller "Twitch - TheKller")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/f55efd1e-ffb1-4da6-9675-900116a54901-profile_image-300x300.png"> [hollow_tones](https://twitch.tv/hollow_tones "Twitch - hollow_tones")
