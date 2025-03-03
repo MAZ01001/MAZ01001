@@ -2,11 +2,11 @@
 
 As seen on [my Twitch profile page](https://www.twitch.tv/maz01001 "MAZ01001") (order is roughly based on preference).
 
-Updated 2025-02-23.
+Updated 2025-03-03.
 
 ## Suggested Streamers
 
-<details open><summary>Click to hide 58 channels</summary>
+<details open><summary>Click to hide 59 channels</summary>
 
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/gronkh-profile_image-76b34139eaa46bb5-300x300.png"> [GRONKH](https://twitch.tv/gronkh "Twitch - GRONKH")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/bf214236-be86-43d7-b81b-b90d34189587-profile_image-300x300.png"> [wayneradiotv](https://twitch.tv/wayneradiotv "Twitch - wayneradiotv")
@@ -29,6 +29,7 @@ Updated 2025-02-23.
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/fa63cae9-770d-4ce6-9018-1c6bd1fe1b69-profile_image-300x300.png"> [PhunkRoyal](https://twitch.tv/phunkroyal "Twitch - PhunkRoyal")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/b3fc1f16-0818-4121-8711-c31b9469bc21-profile_image-300x300.png"> [GamesDoneQuick](https://twitch.tv/gamesdonequick "Twitch - GamesDoneQuick")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/barnacules-profile_image-6c04902761361e1e-300x300.jpeg"> [Barnacules](https://twitch.tv/barnacules "Twitch - Barnacules")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://cdn.7tv.app/user/01H014A8B80008WTTTJHX6247G/profile-picture/01HZH02P0G0000A4HHXG6MDRQ9/2x.webp"> [Dracon](https://twitch.tv/dracon "Twitch - Dracon")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/b99fed3d-29e1-4a7e-8113-52d99b326a40-profile_image-300x300.png"> [TechTangents](https://twitch.tv/techtangents "Twitch - TechTangents")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/90591f72-6bf7-48c9-8dae-04ba6aeb906a-profile_image-300x300.png"> [SmallAnt](https://twitch.tv/smallant "Twitch - SmallAnt")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/466baa35-2382-4a4e-9bb3-301e4138863b-profile_image-300x300.png"> [shindigs](https://twitch.tv/shindigs "Twitch - shindigs")
