@@ -13,6 +13,8 @@
 - [Itch.io](https://maz01001.itch.io/ "MAZ01001.itch.io") - indie games and games I made or contributed
 - [Stack Overflow](https://stackoverflow.com/users/13282166/maz "User MAZ on Stack Overflow")
 
+Also, to make your journey on GitHub perhaps a little better, see the ["collapsible GitHub project files"](https://github.com/MAZ01001/CollapsibleGitHubProjectFiles "Navigate to repository") I made.
+
 <details><summary>Click to show some commit and language stats</summary>
 
 >
