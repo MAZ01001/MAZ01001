@@ -2,11 +2,11 @@
 
 As seen on [my Twitch profile page](https://www.twitch.tv/maz01001 "MAZ01001") (order is roughly based on preference).
 
-Updated 2025-03-03.
+Updated 2025-03-11.
 
 ## Suggested Streamers
 
-<details open><summary>Click to hide 59 channels</summary>
+<details open><summary>Click to hide 60 channels</summary>
 
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/gronkh-profile_image-76b34139eaa46bb5-300x300.png"> [GRONKH](https://twitch.tv/gronkh "Twitch - GRONKH")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/bf214236-be86-43d7-b81b-b90d34189587-profile_image-300x300.png"> [wayneradiotv](https://twitch.tv/wayneradiotv "Twitch - wayneradiotv")
@@ -32,6 +32,7 @@ Updated 2025-03-03.
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://cdn.7tv.app/user/01H014A8B80008WTTTJHX6247G/profile-picture/01HZH02P0G0000A4HHXG6MDRQ9/2x.webp"> [Dracon](https://twitch.tv/dracon "Twitch - Dracon")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/b99fed3d-29e1-4a7e-8113-52d99b326a40-profile_image-300x300.png"> [TechTangents](https://twitch.tv/techtangents "Twitch - TechTangents")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/90591f72-6bf7-48c9-8dae-04ba6aeb906a-profile_image-300x300.png"> [SmallAnt](https://twitch.tv/smallant "Twitch - SmallAnt")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/themrsark-profile_image-3efd152fbf57a83c-300x300.jpeg"> [TheMrSark](https://twitch.tv/themrsark "Twitch - TheMrSark")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/466baa35-2382-4a4e-9bb3-301e4138863b-profile_image-300x300.png"> [shindigs](https://twitch.tv/shindigs "Twitch - shindigs")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/20ce0b57-c04e-48ea-9dd0-64962b11cb29-profile_image-300x300.png"> [Wirtual](https://twitch.tv/wirtual "Twitch - Wirtual")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/38e925fc-0b07-4e1e-82e2-6639e01344f3-profile_image-300x300.png"> [LIRIK](https://twitch.tv/lirik "Twitch - LIRIK")
