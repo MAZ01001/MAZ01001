@@ -2,11 +2,11 @@
 
 As seen on [my Twitch profile page](https://www.twitch.tv/maz01001 "MAZ01001") (order is roughly based on preference).
 
-Updated 2025-03-11.
+Updated 2025-03-14.
 
 ## Suggested Streamers
 
-<details open><summary>Click to hide 60 channels</summary>
+<details open><summary>Click to hide 61 channels</summary>
 
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/gronkh-profile_image-76b34139eaa46bb5-300x300.png"> [GRONKH](https://twitch.tv/gronkh "Twitch - GRONKH")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/bf214236-be86-43d7-b81b-b90d34189587-profile_image-300x300.png"> [wayneradiotv](https://twitch.tv/wayneradiotv "Twitch - wayneradiotv")
@@ -63,6 +63,7 @@ Updated 2025-03-11.
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/199ad016-0034-4571-b559-d98bc35c838c-profile_image-300x300.png"> [GronkhTV](https://twitch.tv/gronkhtv "Twitch - GronkhTV")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/saltybet-profile_image-cef729d6b1b807ce-300x300.png"> [SaltyBet](https://twitch.tv/saltybet "Twitch - SaltyBet")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/pietsmiettv-profile_image-5ba14c228108bcb1-300x300.jpeg"> [PietSmietTV](https://twitch.tv/pietsmiettv "Twitch - PietSmietTV")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/spinninrecords-profile_image-da2302f5e8ffbb9a-300x300.jpeg"> [SpinninRecords](https://twitch.tv/spinninrecords "Twitch - SpinninRecords")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/382115ce-619a-4d50-9c16-0da4c992eeec-profile_image-300x300.png"> [LofiCardboardCowboy](https://twitch.tv/loficardboardcowboy "Twitch - LofiCardboardCowboy")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/b6a5aa99-904b-47a1-b0aa-ed03d29f553c-profile_image-300x300.png"> [WatchMeForever](https://twitch.tv/watchmeforever "Twitch - WatchMeForever")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://static-cdn.jtvnw.net/jtv_user_pictures/4384f6c4-6608-48f4-b3a7-36d0eb6efbd3-profile_image-300x300.png"> [AlveusSanctuary](https://twitch.tv/alveussanctuary "Twitch - AlveusSanctuary")
