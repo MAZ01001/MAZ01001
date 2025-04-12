@@ -132,8 +132,8 @@ ffmpeg.exe -v level+warning -stats -threads 4 -hwaccel cuda -hwaccel_output_form
 
 Then, it can be used in any video editing software (delete the MKV version only if you tested the MP4 version for errors first).
 
-A simpler, more general command can be found [here](https://github.com/MAZ01001/other-projects/blob/main/ffmpeg.md#convert-mkv-to-mp4 "Description and links to documentation in my useful-FFmpeg-commands list here on GitHub").
+A simpler, more general command can be found [here](https://github.com/MAZ01001/FFmpeg-resource#convert-mkv-to-mp4 "Description and links to documentation in my useful-FFmpeg-commands list here on GitHub").
 
 _One could also add ` -metadata comment="VIDEO DESCRIPTION" -metadata title="VIDEO TITLE" ` (before the output) to insert some metadata into the MP4 file in one command._
 
-also see my [list of useful FFmpeg commands](https://github.com/MAZ01001/other-projects/blob/main/ffmpeg.md "A list on my GitHub for some useful FFmpeg commands with descriptions") and the [official FFmpeg wiki](https://ffmpeg.org/ffmpeg-all.html "The official FFmpeg documentation") for some inspiration.
+also see my [list of useful FFmpeg commands](https://github.com/MAZ01001/FFmpeg-resource "A list on my GitHub for some useful FFmpeg commands with descriptions") and the [official FFmpeg wiki](https://ffmpeg.org/ffmpeg-all.html "The official FFmpeg documentation") for some inspiration.
