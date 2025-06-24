@@ -1,6 +1,6 @@
 # Hello There
 
-- [YouTube](https://www.youtube.com/@MAZ01001 "youtube.com/@MAZ01001") - entertainment and education
+- [YouTube](https://www.youtube.com/@MAZ01001 "youtube.com/@MAZ01001") - Encyclopedia of Entertainment and Knowledge: STEM, Animation, Game-dev, and more!
   - [Formatted copy of channel lists](./maz_youtube_channel_lists.md "Open file: MAZ YouTube channel lists")
 - [Homepage](https://maz01001.github.io/ "MAZ01001.github.io") - coding projects and more social links
 - [Steam](http://steamcommunity.com/id/MAZ01001 "Steam/MAZ01001") - public games- and wishlist
