@@ -20,16 +20,17 @@ Also, to make your journey on GitHub perhaps a little better, see the ["collapsi
 >
 > [!NOTE]
 >
-> JavaScript and CSS within HTML files count towards HTML, \
+> JavaScript and CSS within HTML files count towards HTML (as only a file's extension is considered, not its contents), \
 > also there's a lot of Shaderlab and HLSL I haven't written myself (from Unity projects).
 >
-> A large spike in commits might be a game jam.
+> A large spike in commits might've been a game jam.
 >
 
-[![stats commits](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maz01001&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards "click to get your own stats")
-[![stats languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maz01001&cache_secods=86400&hide_border=true&langs_count=20&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats "click to get your own stats")
-[![stats rank](https://github-readme-stats.vercel.app/api?username=maz01001&cache_secods=86400&hide_border=true&count_private=true&show_icons=true&theme=transparent&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats "click to get your own stats")
-[![stats times](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maz01001&theme=transparent&utcOffset=1)](https://github.com/vn7n24fzkq/github-profile-summary-cards "click to get your own stats")
-[![GitHub Streak](https://streak-stats.demolab.com?user=MAZ01001&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats "click to get your own stats")
+[![commit stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maz01001&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards "click to get your own stats")
+[![language stats](https://github-stats-extended.vercel.app/api/top-langs/?username=maz01001&cache_secods=86400&hide_border=true&langs_count=20&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats "click to get your own stats")
+[![GitHub rank](https://github-stats-extended.vercel.app/api?username=maz01001&cache_secods=86400&hide_border=true&count_private=true&show_icons=true&theme=transparent&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats "click to get your own stats")
+[![commit times](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maz01001&theme=transparent&utcOffset=1)](https://github.com/vn7n24fzkq/github-profile-summary-cards "click to get your own stats")
+[![commit streak](https://streak-stats.demolab.com?user=MAZ01001&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://github.com/denvercoder1/github-readme-streak-stats "click to get your own stats")
+[![star stats](https://stardev.io/developers/MAZ01001/badge/languages/global.svg)](https://stardev.io/developers/MAZ01001 "click to view full stats on stardev.io and get your own stats")
 
 </details>
