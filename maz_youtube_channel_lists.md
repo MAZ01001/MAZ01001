@@ -6,7 +6,7 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 | -----:| ----------------------------------------------------------------------------------------------------------------- |
 |    47 | [→ Entertainer (General List)](#-entertainer-general-list "Scroll down to section: → Entertainer (General List)") |
 |    36 | [→ Animations](#-animations "Scroll down to section: → Animations")                                               |
-|    24 | [→ Mechanics](#-mechanics "Scroll down to section: → Mechanics")                                                  |
+|    25 | [→ Mechanics](#-mechanics "Scroll down to section: → Mechanics")                                                  |
 |    34 | [→ Documentaries](#-documentaries "Scroll down to section: → Documentaries")                                      |
 |     8 | [→ Backrooms / SCP](#-backrooms--scp "Scroll down to section: → Backrooms / SCP")                                 |
 |    26 | [→ Science](#-science "Scroll down to section: → Science")                                                        |
@@ -15,7 +15,7 @@ Taken from [my YouTube channel](https://www.youtube.com/@MAZ01001 "@MAZ01001") o
 |     9 | [→ Electronics](#-electronics "Scroll down to section: → Electronics")                                            |
 |    38 | [→ Game dev](#-game-dev "Scroll down to section: → Game dev")                                                     |
 
-258 Total / 243 Unique
+259 Total / 244 Unique
 
 [Create your own list](#create-your-own-list "Scroll down to section: Create your own list") (on your YouTube channel).
 
@@ -126,7 +126,7 @@ Scroll [UP](#-animations "Scroll to start of section: → Animations")
 
 ## [→ Mechanics](https://www.youtube.com/@MAZ01001#:~:text=%E2%86%92%20Mechanics "View list on YouTube")
 
-<details open><summary>Click to hide 24 channels</summary>
+<details open><summary>Click to hide 25 channels</summary>
 
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_nJisvM3xWeEdy5fdqPPH63qNEgSGB_uhXdaq_odgkFctw=s176-c-k-c0x00ffffff-no-rj-mo"> [This Old Tony](https://www.youtube.com/@ThisOldTony "@ThisOldTony")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_lhO23uQyuPBPuhC-ldlqj80aI8slQLv2Ps8ZboVrrYDm8=s176-c-k-c0x00ffffff-no-rj-mo"> [Clickspring](https://www.youtube.com/@Clickspring "@Clickspring")
@@ -147,6 +147,7 @@ Scroll [UP](#-animations "Scroll to start of section: → Animations")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_ksXY2REjZ6gYKSgnWT5jC_zT9mX900vyFtVinR8KbHww=s176-c-k-c0x00ffffff-no-rj-mo"> [Mark Rober](https://www.youtube.com/@MarkRober "@MarkRober")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/SocZ9fmXbBKZO0gG07Urq2znEROpzLKmOikojlZ2AjBgu73noF9mz8Ctd-vs2ICSLoN6fzvojQ=s176-c-k-c0x00ffffff-no-rj-mo"> [James Bruton](https://www.youtube.com/@jamesbruton "@jamesbruton")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/356qAi2EL_vfUQsQNFlYWP_x2TK_Ng3MOfhhO_nPAHd91JguvNA61dZUf1LTxTuDOclgxaVD-w=s176-c-k-c0x00ffffff-no-rj-mo"> [CNC Kitchen](https://www.youtube.com/@CNCKitchen "@CNCKitchen")
+- <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_ly_n_uzPPH8umbCVCZzLLUl5gT_RHsogN8SWC27OM6Pg=s176-c-k-c0x00ffffff-no-rj-mo"> [Torbjörn Åhman](https://www.youtube.com/@torbjornahman "@torbjornahman")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_mCR3aLj2W6oLTBmMdj5PrxuHHdu__PpJfC_UVlimEe86w=s176-c-k-c0x00ffffff-no-rj-mo"> [Dalibor Farný](https://www.youtube.com/@daliborfarny "@daliborfarny")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/J2JIG7iVe_-nH8Ra5MWb23wE65f6ODZr-59HbZyhOw-dxNOscTW0n2ida8lnUCLDl2BIjOP_RQ=s176-c-k-c0x00ffffff-no-rj-mo"> [Alec Steele](https://www.youtube.com/@AlecSteele "@AlecSteele")
 - <img alt="Channel icon" title="Channel icon" height="32" src="https://yt3.googleusercontent.com/ytc/AIdro_mzfzJ9E1WEzyt1YlPXemHOwGBBnVCKzXva_mzmS5qqMg=s176-c-k-c0x00ffffff-no-rj-mo"> [Stuff Made Here](https://www.youtube.com/@StuffMadeHere "@StuffMadeHere")
